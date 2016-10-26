@@ -1,0 +1,3325 @@
+Step= 0  t= 0  dt= 0 
+Nf= 0000032768  total-Nf= 0000032768  ex-frac= 3.43439  iter= 1
+work-load balance: 1.32678  max=0.0729251 avg=0.054964 PE0=0.0661979
+particle-load balance: 1.00342
+max. nodes: 2939, filled: 0.637804
+part/sec=37260.8 | 28083.6  ia/part=659.531 (0)
+
+Step= 0  t= 0  dt= 0 
+Nf= 0000032768  total-Nf= 0000065536  ex-frac= 1.97543  iter= 1
+work-load balance: 1.30221  max=0.0714962 avg=0.0549037 PE0=0.0581772
+particle-load balance: 1.00342
+max. nodes: 2939, filled: 0.637804
+part/sec=37301.7 | 28644.9  ia/part=604.233 (0)
+
+Step= 1  t= 0.00492188  dt= 0.00492188 
+Nf= 0000000175  total-Nf= 0000065711  ex-frac= 1.24571  iter= 1
+work-load balance: 2.12803  max=0.000791073 avg=0.000371739 PE0=0.000650167
+particle-load balance: 1.00342
+max. nodes: 2939, filled: 0.637804
+part/sec=29422.5 | 13826.2  ia/part=323.766 (0)
+
+Step= 2  t= 0.00984375  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0000098479  ex-frac= 1.9989  iter= 1
+work-load balance: 1.26328  max=0.0707848 avg=0.0560324 PE0=0.0707848
+particle-load balance: 1.104
+max. nodes: 2998, filled: 0.650608
+part/sec=36550.3 | 28932.8  ia/part=604.788 (0)
+
+Step= 3  t= 0.0147656  dt= 0.00492188 
+Nf= 0000000158  total-Nf= 0000098637  ex-frac= 1.24051  iter= 1
+work-load balance: 1.76666  max=0.000298977 avg=0.000169232 PE0=0.000246048
+particle-load balance: 1.104
+max. nodes: 2998, filled: 0.650608
+part/sec=58351.7 | 33029.3  ia/part=322.57 (0)
+
+Step= 4  t= 0.0196875  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0000131405  ex-frac= 1.99432  iter= 1
+work-load balance: 1.26395  max=0.0701597 avg=0.0555084 PE0=0.0701597
+particle-load balance: 1.10303
+max. nodes: 3008, filled: 0.652778
+part/sec=36895.3 | 29190.6  ia/part=604.935 (0)
+
+Step= 5  t= 0.0246094  dt= 0.00492187 
+Nf= 0000000109  total-Nf= 0000131514  ex-frac= 1.30275  iter= 1
+work-load balance: 2.00745  max=0.000208855 avg=0.00010404 PE0=0.000122786
+particle-load balance: 1.10303
+max. nodes: 3008, filled: 0.652778
+part/sec=65479.7 | 32618.4  ia/part=321.431 (0)
+
+Step= 6  t= 0.0295313  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0000164282  ex-frac= 1.99866  iter= 1
+work-load balance: 1.25814  max=0.060648 avg=0.0482043 PE0=0.060648
+particle-load balance: 1.10303
+max. nodes: 2998, filled: 0.650608
+part/sec=42485.8 | 33768.7  ia/part=605.255 (0)
+
+Step= 7  t= 0.0344531  dt= 0.00492187 
+Nf= 0000000049  total-Nf= 0000164331  ex-frac= 1.38776  iter= 1
+work-load balance: 2.49864  max=0.000137091 avg=5.48661e-05 PE0=5.22137e-05
+particle-load balance: 1.10303
+max. nodes: 2998, filled: 0.650608
+part/sec=55817.7 | 22339.2  ia/part=319.204 (0)
+
+Step= 8  t= 0.039375  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0000197099  ex-frac= 1.99741  iter= 1
+work-load balance: 1.271  max=0.0607643 avg=0.0478082 PE0=0.0607643
+particle-load balance: 1.10742
+max. nodes: 3023, filled: 0.656033
+part/sec=42837.8 | 33704  ia/part=605.373 (0)
+
+Step= 9  t= 0.0442969  dt= 0.00492187 
+Nf= 0000000010  total-Nf= 0000197109  ex-frac= 1.3  iter= 1
+work-load balance: 3.01449  max=6.19888e-05 avg=2.05636e-05 PE0=1.00136e-05
+particle-load balance: 1.10742
+max. nodes: 3023, filled: 0.656033
+part/sec=30393.5 | 10082.5  ia/part=318.8 (0)
+
+Step= 10  t= 0.0492187  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0000229877  ex-frac= 1.99298  iter= 1
+work-load balance: 1.26446  max=0.0606382 avg=0.0479557 PE0=0.0606382
+particle-load balance: 1.10254
+max. nodes: 3029, filled: 0.657335
+part/sec=42706.1 | 33774.1  ia/part=605.954 (0)
+
+Step= 11  t= 0.0590625  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000262645  ex-frac= 1.9946  iter= 1
+work-load balance: 1.26016  max=0.0602181 avg=0.0477862 PE0=0.0602181
+particle-load balance: 1.09717
+max. nodes: 3016, filled: 0.654514
+part/sec=42857.5 | 34009.7  ia/part=606.377 (0)
+
+Step= 12  t= 0.0689063  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000295413  ex-frac= 1.98422  iter= 1
+work-load balance: 1.2579  max=0.0598919 avg=0.0476128 PE0=0.0598161
+particle-load balance: 1.09375
+max. nodes: 3011, filled: 0.653429
+part/sec=43013.6 | 34194.9  ia/part=606.842 (0)
+
+Step= 13  t= 0.07875  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000328181  ex-frac= 1.99469  iter= 1
+work-load balance: 1.25773  max=0.0604181 avg=0.0480373 PE0=0.0601559
+particle-load balance: 1.09521
+max. nodes: 2987, filled: 0.64822
+part/sec=42633.5 | 33897.1  ia/part=607.44 (0)
+
+Step= 14  t= 0.0885937  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000360949  ex-frac= 1.99094  iter= 1
+work-load balance: 1.26178  max=0.0601821 avg=0.0476961 PE0=0.0596621
+particle-load balance: 1.09131
+max. nodes: 2976, filled: 0.645833
+part/sec=42938.5 | 34030.1  ia/part=608.186 (0)
+
+Step= 15  t= 0.0984375  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000393717  ex-frac= 1.9859  iter= 1
+work-load balance: 1.2603  max=0.0606508 avg=0.0481241 PE0=0.0605922
+particle-load balance: 1.0918
+max. nodes: 2960, filled: 0.642361
+part/sec=42556.6 | 33767.1  ia/part=609.077 (0)
+
+Step= 16  t= 0.108281  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000426485  ex-frac= 1.9834  iter= 1
+work-load balance: 1.26448  max=0.0604558 avg=0.0478108 PE0=0.060015
+particle-load balance: 1.08545
+max. nodes: 2947, filled: 0.63954
+part/sec=42835.5 | 33876  ia/part=610.082 (0)
+
+Step= 17  t= 0.118125  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000459253  ex-frac= 2.03125  iter= 1
+work-load balance: 1.25426  max=0.0604789 avg=0.0482187 PE0=0.060051
+particle-load balance: 1.0835
+max. nodes: 2942, filled: 0.638455
+part/sec=42473.2 | 33863  ia/part=610.658 (0)
+
+Step= 18  t= 0.127969  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000492021  ex-frac= 2.04892  iter= 1
+work-load balance: 1.26201  max=0.0605268 avg=0.0479606 PE0=0.0605268
+particle-load balance: 1.0874
+max. nodes: 2892, filled: 0.627604
+part/sec=42701.7 | 33836.2  ia/part=611.464 (0)
+
+Step= 19  t= 0.137813  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000524789  ex-frac= 2.06955  iter= 1
+work-load balance: 1.26329  max=0.0610521 avg=0.0483278 PE0=0.0598469
+particle-load balance: 1.07568
+max. nodes: 2853, filled: 0.619141
+part/sec=42377.2 | 33545.1  ia/part=612.45 (0)
+
+Step= 20  t= 0.147656  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000557557  ex-frac= 2.19608  iter= 1
+work-load balance: 1.27875  max=0.0616388 avg=0.0482024 PE0=0.0616388
+particle-load balance: 1.08154
+max. nodes: 2775, filled: 0.602214
+part/sec=42487.5 | 33225.8  ia/part=613.171 (0)
+
+Step= 21  t= 0.1575  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000590325  ex-frac= 2.2767  iter= 1
+work-load balance: 1.29376  max=0.0628302 avg=0.048564 PE0=0.0615971
+particle-load balance: 1.0791
+max. nodes: 2717, filled: 0.589627
+part/sec=42171.2 | 32595.8  ia/part=614.017 (0)
+
+Step= 22  t= 0.167344  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000623093  ex-frac= 2.37134  iter= 1
+work-load balance: 1.28863  max=0.0629981 avg=0.0488876 PE0=0.0624919
+particle-load balance: 1.07861
+max. nodes: 2629, filled: 0.57053
+part/sec=41892 | 32508.9  ia/part=614.675 (0)
+
+Step= 23  t= 0.177187  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000655861  ex-frac= 2.39331  iter= 1
+work-load balance: 1.27681  max=0.06179 avg=0.048394 PE0=0.0616519
+particle-load balance: 1.07373
+max. nodes: 2593, filled: 0.562717
+part/sec=42319.3 | 33144.5  ia/part=615.482 (0)
+
+Step= 24  t= 0.187031  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000688629  ex-frac= 2.37381  iter= 1
+work-load balance: 1.26914  max=0.0620732 avg=0.0489095 PE0=0.0620732
+particle-load balance: 1.06836
+max. nodes: 2594, filled: 0.562934
+part/sec=41873.2 | 32993.3  ia/part=616.268 (0)
+
+Step= 25  t= 0.196875  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000721397  ex-frac= 2.36832  iter= 1
+work-load balance: 1.27584  max=0.0622411 avg=0.0487843 PE0=0.0622411
+particle-load balance: 1.06885
+max. nodes: 2585, filled: 0.560981
+part/sec=41980.7 | 32904.3  ia/part=617.345 (0)
+
+Step= 26  t= 0.206719  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000754165  ex-frac= 2.36496  iter= 1
+work-load balance: 1.27565  max=0.062145 avg=0.0487164 PE0=0.062145
+particle-load balance: 1.06836
+max. nodes: 2563, filled: 0.556207
+part/sec=42039.3 | 32955.2  ia/part=618.335 (0)
+
+Step= 27  t= 0.216562  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000786933  ex-frac= 2.35849  iter= 1
+work-load balance: 1.28471  max=0.0624039 avg=0.0485745 PE0=0.0612969
+particle-load balance: 1.05762
+max. nodes: 2552, filled: 0.553819
+part/sec=42162.1 | 32818.5  ia/part=618.787 (0)
+
+Step= 28  t= 0.226406  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000819701  ex-frac= 2.35504  iter= 1
+work-load balance: 1.28062  max=0.063035 avg=0.0492223 PE0=0.0618401
+particle-load balance: 1.05273
+max. nodes: 2539, filled: 0.550998
+part/sec=41607.2 | 32489.9  ia/part=619.391 (0)
+
+Step= 29  t= 0.23625  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000852469  ex-frac= 2.33508  iter= 1
+work-load balance: 1.28931  max=0.063077 avg=0.0489231 PE0=0.0620272
+particle-load balance: 1.05322
+max. nodes: 2540, filled: 0.551215
+part/sec=41861.6 | 32468.3  ia/part=619.786 (0)
+
+Step= 30  t= 0.246094  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000885237  ex-frac= 2.32584  iter= 1
+work-load balance: 1.28582  max=0.0628028 avg=0.0488425 PE0=0.0615072
+particle-load balance: 1.04688
+max. nodes: 2532, filled: 0.549479
+part/sec=41930.7 | 32610  ia/part=620.508 (0)
+
+Step= 31  t= 0.255937  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000918005  ex-frac= 2.31445  iter= 1
+work-load balance: 1.29215  max=0.0630069 avg=0.0487614 PE0=0.0615349
+particle-load balance: 1.04541
+max. nodes: 2520, filled: 0.546875
+part/sec=42000.5 | 32504.4  ia/part=621.181 (0)
+
+Step= 32  t= 0.265781  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000950773  ex-frac= 2.32446  iter= 1
+work-load balance: 1.28516  max=0.0628657 avg=0.0489167 PE0=0.0613229
+particle-load balance: 1.04639
+max. nodes: 2500, filled: 0.542535
+part/sec=41867.1 | 32577.4  ia/part=621.753 (0)
+
+Step= 33  t= 0.275625  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0000983541  ex-frac= 2.31403  iter= 1
+work-load balance: 1.28772  max=0.0633483 avg=0.0491941 PE0=0.0620859
+particle-load balance: 1.04199
+max. nodes: 2465, filled: 0.534939
+part/sec=41631 | 32329.2  ia/part=621.935 (0)
+
+Step= 34  t= 0.285469  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001016309  ex-frac= 2.47369  iter= 1
+work-load balance: 1.28433  max=0.0627811 avg=0.0488825 PE0=0.0616238
+particle-load balance: 1.05859
+max. nodes: 2354, filled: 0.510851
+part/sec=41896.4 | 32621.3  ia/part=619.896 (0)
+
+Step= 35  t= 0.295312  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001049077  ex-frac= 2.51334  iter= 1
+work-load balance: 1.27792  max=0.0621932 avg=0.0486677 PE0=0.061934
+particle-load balance: 1.05322
+max. nodes: 2304, filled: 0.5
+part/sec=42081.3 | 32929.7  ia/part=618.6 (0)
+
+Step= 36  t= 0.305156  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001081845  ex-frac= 2.62421  iter= 1
+work-load balance: 1.27885  max=0.062377 avg=0.048776 PE0=0.0619459
+particle-load balance: 1.07324
+max. nodes: 2235, filled: 0.485026
+part/sec=41987.9 | 32832.6  ia/part=617.595 (0)
+
+Step= 37  t= 0.315  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001114613  ex-frac= 2.71402  iter= 1
+work-load balance: 1.30421  max=0.0627401 avg=0.0481059 PE0=0.0605481
+particle-load balance: 1.06885
+max. nodes: 2178, filled: 0.472656
+part/sec=42572.8 | 32642.6  ia/part=616.371 (0)
+
+Step= 38  t= 0.324844  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001147381  ex-frac= 2.7804  iter= 1
+work-load balance: 1.29639  max=0.0627818 avg=0.0484283 PE0=0.0616591
+particle-load balance: 1.07324
+max. nodes: 2140, filled: 0.46441
+part/sec=42289.3 | 32620.9  ia/part=615.254 (0)
+
+Step= 39  t= 0.334688  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001180149  ex-frac= 2.76636  iter= 1
+work-load balance: 1.32677  max=0.064208 avg=0.0483944 PE0=0.062346
+particle-load balance: 1.08936
+max. nodes: 2126, filled: 0.461372
+part/sec=42318.9 | 31896.3  ia/part=615.497 (0)
+
+Step= 40  t= 0.344531  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001212917  ex-frac= 2.74231  iter= 1
+work-load balance: 1.32033  max=0.063904 avg=0.0484002 PE0=0.0621676
+particle-load balance: 1.09326
+max. nodes: 2127, filled: 0.461589
+part/sec=42313.9 | 32048  ia/part=615.939 (0)
+
+Step= 41  t= 0.354375  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001245685  ex-frac= 2.77249  iter= 1
+work-load balance: 1.30499  max=0.0637679 avg=0.0488646 PE0=0.062305
+particle-load balance: 1.10205
+max. nodes: 2107, filled: 0.457248
+part/sec=41911.7 | 32116.5  ia/part=615.997 (0)
+
+Step= 42  t= 0.364219  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001278453  ex-frac= 2.77771  iter= 1
+work-load balance: 1.30717  max=0.063699 avg=0.0487306 PE0=0.0626471
+particle-load balance: 1.09277
+max. nodes: 2094, filled: 0.454427
+part/sec=42027 | 32151.2  ia/part=616.461 (0)
+
+Step= 43  t= 0.374063  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001311221  ex-frac= 2.72595  iter= 1
+work-load balance: 1.28317  max=0.06233 avg=0.0485751 PE0=0.0620761
+particle-load balance: 1.09961
+max. nodes: 2089, filled: 0.453342
+part/sec=42161.5 | 32857.4  ia/part=616.98 (0)
+
+Step= 44  t= 0.383906  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001343989  ex-frac= 2.74173  iter= 1
+work-load balance: 1.30012  max=0.062813 avg=0.0483134 PE0=0.0624762
+particle-load balance: 1.09863
+max. nodes: 2067, filled: 0.448568
+part/sec=42389.9 | 32604.7  ia/part=617.427 (0)
+
+Step= 45  t= 0.39375  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001376757  ex-frac= 2.71283  iter= 1
+work-load balance: 1.30632  max=0.0625572 avg=0.0478881 PE0=0.0622211
+particle-load balance: 1.10303
+max. nodes: 2071, filled: 0.449436
+part/sec=42766.3 | 32738  ia/part=617.993 (0)
+
+Step= 46  t= 0.403594  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001409525  ex-frac= 2.73734  iter= 1
+work-load balance: 1.30661  max=0.0629671 avg=0.048191 PE0=0.0610209
+particle-load balance: 1.12256
+max. nodes: 2063, filled: 0.4477
+part/sec=42497.5 | 32524.9  ia/part=618.104 (0)
+
+Step= 47  t= 0.413438  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001442293  ex-frac= 2.89627  iter= 1
+work-load balance: 1.29487  max=0.06265 avg=0.0483831 PE0=0.0622661
+particle-load balance: 1.12012
+max. nodes: 1989, filled: 0.431641
+part/sec=42328.8 | 32689.6  ia/part=618.489 (0)
+
+Step= 48  t= 0.423281  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001475061  ex-frac= 2.83716  iter= 1
+work-load balance: 1.29203  max=0.0623519 avg=0.0482589 PE0=0.0622098
+particle-load balance: 1.13037
+max. nodes: 1975, filled: 0.428602
+part/sec=42437.7 | 32845.8  ia/part=618.643 (0)
+
+Step= 49  t= 0.433125  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001507829  ex-frac= 2.88663  iter= 1
+work-load balance: 1.29244  max=0.062155 avg=0.0480911 PE0=0.0618839
+particle-load balance: 1.12598
+max. nodes: 1937, filled: 0.420356
+part/sec=42585.8 | 32949.9  ia/part=619.071 (0)
+
+Step= 50  t= 0.442969  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001540597  ex-frac= 2.87097  iter= 1
+work-load balance: 1.29617  max=0.062027 avg=0.0478539 PE0=0.061208
+particle-load balance: 1.125
+max. nodes: 1900, filled: 0.412326
+part/sec=42796.9 | 33017.9  ia/part=619.866 (0)
+
+Step= 51  t= 0.452813  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001573365  ex-frac= 2.95026  iter= 1
+work-load balance: 1.28808  max=0.061681 avg=0.0478862 PE0=0.060782
+particle-load balance: 1.13232
+max. nodes: 1849, filled: 0.401259
+part/sec=42768.1 | 33203.1  ia/part=619.672 (0)
+
+Step= 52  t= 0.462656  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001606133  ex-frac= 3.04608  iter= 1
+work-load balance: 1.29071  max=0.0631659 avg=0.0489388 PE0=0.0620031
+particle-load balance: 1.13623
+max. nodes: 1796, filled: 0.389757
+part/sec=41848.2 | 32422.6  ia/part=620.147 (0)
+
+Step= 53  t= 0.4725  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001638901  ex-frac= 3.06369  iter= 1
+work-load balance: 1.27977  max=0.0619452 avg=0.0484034 PE0=0.0616541
+particle-load balance: 1.13672
+max. nodes: 1765, filled: 0.38303
+part/sec=42311.1 | 33061.5  ia/part=620.698 (0)
+
+Step= 54  t= 0.482344  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001671669  ex-frac= 3.07233  iter= 1
+work-load balance: 1.29981  max=0.0626419 avg=0.0481932 PE0=0.0615759
+particle-load balance: 1.13135
+max. nodes: 1740, filled: 0.377604
+part/sec=42495.7 | 32693.8  ia/part=621.255 (0)
+
+Step= 55  t= 0.492188  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001704437  ex-frac= 3.09409  iter= 1
+work-load balance: 1.27999  max=0.0616169 avg=0.0481387 PE0=0.0616169
+particle-load balance: 1.14062
+max. nodes: 1686, filled: 0.365885
+part/sec=42543.7 | 33237.6  ia/part=621.74 (0)
+
+Step= 56  t= 0.502031  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001737205  ex-frac= 3.1315  iter= 1
+work-load balance: 1.29716  max=0.0625019 avg=0.0481837 PE0=0.0605569
+particle-load balance: 1.17627
+max. nodes: 1737, filled: 0.376953
+part/sec=42504 | 32767  ia/part=622.324 (0)
+
+Step= 57  t= 0.511875  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001769973  ex-frac= 3.16437  iter= 1
+work-load balance: 1.29482  max=0.062762 avg=0.0484717 PE0=0.061002
+particle-load balance: 1.15283
+max. nodes: 1700, filled: 0.368924
+part/sec=42251.5 | 32631.2  ia/part=623.108 (0)
+
+Step= 58  t= 0.521719  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001802741  ex-frac= 3.18195  iter= 1
+work-load balance: 1.27399  max=0.0608981 avg=0.0478012 PE0=0.060374
+particle-load balance: 1.16748
+max. nodes: 1712, filled: 0.371528
+part/sec=42844.1 | 33630  ia/part=623.815 (0)
+
+Step= 59  t= 0.531563  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001835509  ex-frac= 3.22003  iter= 1
+work-load balance: 1.30744  max=0.0626972 avg=0.0479541 PE0=0.0604398
+particle-load balance: 1.17676
+max. nodes: 1744, filled: 0.378472
+part/sec=42707.5 | 32665  ia/part=624.44 (0)
+
+Step= 60  t= 0.541406  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001868277  ex-frac= 3.28168  iter= 1
+work-load balance: 1.28407  max=0.0615442 avg=0.047929 PE0=0.059262
+particle-load balance: 1.18799
+max. nodes: 1717, filled: 0.372613
+part/sec=42729.9 | 33276.9  ia/part=624.894 (0)
+
+Step= 61  t= 0.55125  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001901045  ex-frac= 3.35751  iter= 1
+work-load balance: 1.29609  max=0.0622602 avg=0.0480369 PE0=0.0596859
+particle-load balance: 1.18848
+max. nodes: 1723, filled: 0.373915
+part/sec=42633.9 | 32894.2  ia/part=625.908 (0)
+
+Step= 62  t= 0.561094  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001933813  ex-frac= 3.3558  iter= 1
+work-load balance: 1.30723  max=0.0626419 avg=0.0479197 PE0=0.0597451
+particle-load balance: 1.18994
+max. nodes: 1721, filled: 0.373481
+part/sec=42738.2 | 32693.8  ia/part=626.216 (0)
+
+Step= 63  t= 0.570937  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001966581  ex-frac= 3.36783  iter= 1
+work-load balance: 1.29733  max=0.0626593 avg=0.0482987 PE0=0.0603111
+particle-load balance: 1.18066
+max. nodes: 1712, filled: 0.371528
+part/sec=42402.8 | 32684.7  ia/part=626.695 (0)
+
+Step= 64  t= 0.580781  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0001999349  ex-frac= 3.41452  iter= 1
+work-load balance: 1.31774  max=0.06352 avg=0.0482036 PE0=0.0607781
+particle-load balance: 1.2085
+max. nodes: 1737, filled: 0.376953
+part/sec=42486.5 | 32241.8  ia/part=627.377 (0)
+
+Step= 65  t= 0.590625  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002032117  ex-frac= 3.41348  iter= 1
+work-load balance: 1.27048  max=0.061357 avg=0.0482942 PE0=0.0588369
+particle-load balance: 1.20801
+max. nodes: 1728, filled: 0.375
+part/sec=42406.8 | 33378.4  ia/part=627.509 (0)
+
+Step= 66  t= 0.600469  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002064885  ex-frac= 3.51669  iter= 1
+work-load balance: 1.30666  max=0.0628371 avg=0.04809 PE0=0.0593729
+particle-load balance: 1.21094
+max. nodes: 1752, filled: 0.380208
+part/sec=42586.8 | 32592.2  ia/part=627.994 (0)
+
+Step= 67  t= 0.610313  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002097653  ex-frac= 3.56946  iter= 1
+work-load balance: 1.31187  max=0.063251 avg=0.0482146 PE0=0.0598342
+particle-load balance: 1.2041
+max. nodes: 1775, filled: 0.3852
+part/sec=42476.8 | 32378.9  ia/part=628.236 (0)
+
+Step= 68  t= 0.620156  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002130421  ex-frac= 3.60519  iter= 1
+work-load balance: 1.29778  max=0.0627108 avg=0.0483214 PE0=0.0607159
+particle-load balance: 1.20459
+max. nodes: 1788, filled: 0.388021
+part/sec=42382.9 | 32657.9  ia/part=628.513 (0)
+
+Step= 69  t= 0.63  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002163189  ex-frac= 3.65887  iter= 1
+work-load balance: 1.30169  max=0.0630581 avg=0.0484432 PE0=0.059005
+particle-load balance: 1.23193
+max. nodes: 1788, filled: 0.388021
+part/sec=42276.3 | 32478  ia/part=628.682 (0)
+
+Step= 70  t= 0.639844  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002195957  ex-frac= 3.72519  iter= 1
+work-load balance: 1.31275  max=0.063705 avg=0.0485278 PE0=0.059747
+particle-load balance: 1.22656
+max. nodes: 1800, filled: 0.390625
+part/sec=42202.6 | 32148.2  ia/part=628.337 (0)
+
+Step= 71  t= 0.649687  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002228725  ex-frac= 3.67444  iter= 1
+work-load balance: 1.34892  max=0.066011 avg=0.0489361 PE0=0.0616
+particle-load balance: 1.21924
+max. nodes: 1955, filled: 0.424262
+part/sec=41850.5 | 31025.2  ia/part=628.517 (0)
+
+Step= 72  t= 0.659531  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002261493  ex-frac= 3.44815  iter= 1
+work-load balance: 1.33779  max=0.0663912 avg=0.0496277 PE0=0.0623581
+particle-load balance: 1.2207
+max. nodes: 2211, filled: 0.479818
+part/sec=41267.3 | 30847.4  ia/part=628.047 (0)
+
+Step= 73  t= 0.669375  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002294261  ex-frac= 3.0459  iter= 1
+work-load balance: 1.32653  max=0.065382 avg=0.0492879 PE0=0.0629501
+particle-load balance: 1.21924
+max. nodes: 2445, filled: 0.530599
+part/sec=41551.8 | 31323.6  ia/part=627.449 (0)
+
+Step= 74  t= 0.679219  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002327029  ex-frac= 2.80887  iter= 1
+work-load balance: 1.3123  max=0.0646479 avg=0.0492632 PE0=0.0603828
+particle-load balance: 1.21729
+max. nodes: 2517, filled: 0.546224
+part/sec=41572.6 | 31679.3  ia/part=626.551 (0)
+
+Step= 75  t= 0.689063  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002359797  ex-frac= 2.71796  iter= 1
+work-load balance: 1.30944  max=0.0638301 avg=0.0487461 PE0=0.0601149
+particle-load balance: 1.21436
+max. nodes: 2502, filled: 0.542969
+part/sec=42013.6 | 32085.2  ia/part=625.339 (0)
+
+Step= 76  t= 0.698906  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002392565  ex-frac= 2.67694  iter= 1
+work-load balance: 1.33402  max=0.065176 avg=0.0488569 PE0=0.0599141
+particle-load balance: 1.22754
+max. nodes: 2496, filled: 0.541667
+part/sec=41918.3 | 31422.6  ia/part=624.749 (0)
+
+Step= 77  t= 0.70875  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002425333  ex-frac= 2.63623  iter= 1
+work-load balance: 1.30111  max=0.0635619 avg=0.0488519 PE0=0.0598722
+particle-load balance: 1.22803
+max. nodes: 2521, filled: 0.547092
+part/sec=41922.6 | 32220.6  ia/part=624.077 (0)
+
+Step= 78  t= 0.718594  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002458101  ex-frac= 2.67126  iter= 1
+work-load balance: 1.29946  max=0.064158 avg=0.0493727 PE0=0.0607898
+particle-load balance: 1.22949
+max. nodes: 2511, filled: 0.544922
+part/sec=41480.4 | 31921.2  ia/part=622.75 (0)
+
+Step= 79  t= 0.728437  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002490869  ex-frac= 2.66888  iter= 1
+work-load balance: 1.30007  max=0.0628221 avg=0.0483223 PE0=0.0597789
+particle-load balance: 1.22656
+max. nodes: 2503, filled: 0.543186
+part/sec=42382.1 | 32600  ia/part=621.562 (0)
+
+Step= 80  t= 0.738281  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002523637  ex-frac= 2.69263  iter= 1
+work-load balance: 1.30106  max=0.0634751 avg=0.0487871 PE0=0.0599401
+particle-load balance: 1.22021
+max. nodes: 2463, filled: 0.534505
+part/sec=41978.3 | 32264.6  ia/part=620.029 (0)
+
+Step= 81  t= 0.748125  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002556405  ex-frac= 2.66214  iter= 1
+work-load balance: 1.3186  max=0.0632548 avg=0.0479711 PE0=0.0589631
+particle-load balance: 1.22363
+max. nodes: 2436, filled: 0.528646
+part/sec=42692.4 | 32377  ia/part=618.6 (0)
+
+Step= 82  t= 0.757969  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002589173  ex-frac= 2.66089  iter= 1
+work-load balance: 1.30036  max=0.063134 avg=0.0485511 PE0=0.0595632
+particle-load balance: 1.22705
+max. nodes: 2427, filled: 0.526693
+part/sec=42182.4 | 32439  ia/part=616.988 (0)
+
+Step= 83  t= 0.767813  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002621941  ex-frac= 2.65414  iter= 1
+work-load balance: 1.29277  max=0.061578 avg=0.0476327 PE0=0.0592761
+particle-load balance: 1.23486
+max. nodes: 2434, filled: 0.528212
+part/sec=42995.6 | 33258.6  ia/part=614.991 (0)
+
+Step= 84  t= 0.777656  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002654709  ex-frac= 2.62943  iter= 1
+work-load balance: 1.30105  max=0.0626309 avg=0.0481388 PE0=0.0591118
+particle-load balance: 1.23633
+max. nodes: 2429, filled: 0.527127
+part/sec=42543.6 | 32699.5  ia/part=613.42 (0)
+
+Step= 85  t= 0.7875  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002687477  ex-frac= 2.60687  iter= 1
+work-load balance: 1.29626  max=0.061702 avg=0.0476001 PE0=0.058398
+particle-load balance: 1.24512
+max. nodes: 2414, filled: 0.523872
+part/sec=43025.1 | 33191.8  ia/part=611.927 (0)
+
+Step= 86  t= 0.797344  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002720245  ex-frac= 2.6004  iter= 1
+work-load balance: 1.29507  max=0.0614049 avg=0.0474144 PE0=0.059269
+particle-load balance: 1.23438
+max. nodes: 2401, filled: 0.52105
+part/sec=43193.6 | 33352.4  ia/part=610.767 (0)
+
+Step= 87  t= 0.807188  dt= 0.00984375 
+Nf= 0000032768  total-Nf= 0002753013  ex-frac= 2.61841  iter= 1
+work-load balance: 1.30615  max=0.0618992 avg=0.0473904 PE0=0.0585949
+particle-load balance: 1.24707
+max. nodes: 2393, filled: 0.519314
+part/sec=43215.5 | 33086.1  ia/part=609.546 (0)
+
+Step= 88  t= 0.812109  dt= 0.00492187 
+Nf= 0000000001  total-Nf= 0002753014  ex-frac= 3  iter= 1
+work-load balance: 3.47914  max=4.1008e-05 avg=1.17868e-05 PE0=1.00136e-05
+particle-load balance: 1.24707
+max. nodes: 2393, filled: 0.519314
+part/sec=5302.53 | 1524.09  ia/part=922 (0)
+
+Step= 89  t= 0.817031  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0002785782  ex-frac= 2.62964  iter= 1
+work-load balance: 1.28192  max=0.0600429 avg=0.0468383 PE0=0.0574198
+particle-load balance: 1.25732
+max. nodes: 2420, filled: 0.525174
+part/sec=43724.9 | 34109  ia/part=608.405 (0)
+
+Step= 90  t= 0.821953  dt= 0.00492187 
+Nf= 0000000010  total-Nf= 0002785792  ex-frac= 3.2  iter= 1
+work-load balance: 4.58703  max=0.000160217 avg=3.49283e-05 PE0=0.000160217
+particle-load balance: 1.25732
+max. nodes: 2420, filled: 0.525174
+part/sec=17893.8 | 3900.95  ia/part=906.9 (0)
+
+Step= 91  t= 0.826875  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0002818560  ex-frac= 2.66718  iter= 1
+work-load balance: 1.31895  max=0.0616908 avg=0.0467726 PE0=0.0578399
+particle-load balance: 1.25732
+max. nodes: 2394, filled: 0.519531
+part/sec=43786.3 | 33197.8  ia/part=607.179 (0)
+
+Step= 92  t= 0.831797  dt= 0.00492187 
+Nf= 0000000113  total-Nf= 0002818673  ex-frac= 3.54867  iter= 1
+work-load balance: 3.20469  max=0.000847101 avg=0.000264332 PE0=0.000619888
+particle-load balance: 1.25732
+max. nodes: 2394, filled: 0.519531
+part/sec=26718.3 | 8337.26  ia/part=926.673 (0)
+
+Step= 93  t= 0.836719  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0002851441  ex-frac= 2.73639  iter= 1
+work-load balance: 1.30603  max=0.0610561 avg=0.0467493 PE0=0.057719
+particle-load balance: 1.25732
+max. nodes: 2339, filled: 0.507595
+part/sec=43808.2 | 33542.9  ia/part=605.754 (0)
+
+Step= 94  t= 0.841641  dt= 0.00492188 
+Nf= 0000000397  total-Nf= 0002851838  ex-frac= 3.71033  iter= 1
+work-load balance: 2.86883  max=0.00251603 avg=0.000877023 PE0=0.001333
+particle-load balance: 1.25732
+max. nodes: 2339, filled: 0.507595
+part/sec=28291.7 | 9861.76  ia/part=929.786 (0)
+
+Step= 95  t= 0.846562  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0002884606  ex-frac= 2.74365  iter= 1
+work-load balance: 1.3184  max=0.0610762 avg=0.0463261 PE0=0.057431
+particle-load balance: 1.29443
+max. nodes: 2383, filled: 0.517144
+part/sec=44208.3 | 33531.9  ia/part=604.93 (0)
+
+Step= 96  t= 0.851484  dt= 0.00492187 
+Nf= 0000000899  total-Nf= 0002885505  ex-frac= 4.20356  iter= 1
+work-load balance: 2.21003  max=0.00458312 avg=0.00207378 PE0=0.0028801
+particle-load balance: 1.29443
+max. nodes: 2383, filled: 0.517144
+part/sec=27094.2 | 12259.7  ia/part=920.387 (0)
+
+Step= 97  t= 0.856406  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0002918273  ex-frac= 2.82428  iter= 1
+work-load balance: 1.33992  max=0.061928 avg=0.0462177 PE0=0.0565832
+particle-load balance: 1.29932
+max. nodes: 2295, filled: 0.498047
+part/sec=44312 | 33070.6  ia/part=603.919 (0)
+
+Step= 98  t= 0.861328  dt= 0.00492187 
+Nf= 0000001631  total-Nf= 0002919904  ex-frac= 4.42551  iter= 1
+work-load balance: 1.97729  max=0.00715184 avg=0.00361699 PE0=0.00499988
+particle-load balance: 1.29932
+max. nodes: 2295, filled: 0.498047
+part/sec=28183 | 14253.3  ia/part=915.013 (0)
+
+Step= 99  t= 0.86625  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0002952672  ex-frac= 2.83395  iter= 1
+work-load balance: 1.34576  max=0.0620232 avg=0.0460879 PE0=0.0570939
+particle-load balance: 1.3291
+max. nodes: 2291, filled: 0.497179
+part/sec=44436.8 | 33019.9  ia/part=603.397 (0)
+
+Step= 100  t= 0.871172  dt= 0.00492188 
+Nf= 0000002381  total-Nf= 0002955053  ex-frac= 4.57287  iter= 1
+work-load balance: 1.81958  max=0.00969696 avg=0.00532924 PE0=0.00773692
+particle-load balance: 1.3291
+max. nodes: 2291, filled: 0.497179
+part/sec=27923.8 | 15346.3  ia/part=916.598 (0)
+
+Step= 101  t= 0.876094  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0002987821  ex-frac= 2.88797  iter= 1
+work-load balance: 1.40742  max=0.0653782 avg=0.0464524 PE0=0.056159
+particle-load balance: 1.37842
+max. nodes: 2275, filled: 0.493707
+part/sec=44088.1 | 31325.4  ia/part=602.894 (0)
+
+Step= 102  t= 0.881016  dt= 0.00492187 
+Nf= 0000003087  total-Nf= 0002990908  ex-frac= 4.75543  iter= 1
+work-load balance: 1.74826  max=0.0125628 avg=0.00718585 PE0=0.0101929
+particle-load balance: 1.37842
+max. nodes: 2275, filled: 0.493707
+part/sec=26849.7 | 15357.9  ia/part=917.266 (0)
+
+Step= 103  t= 0.885938  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0003023676  ex-frac= 2.92545  iter= 1
+work-load balance: 1.4169  max=0.064918 avg=0.0458169 PE0=0.054352
+particle-load balance: 1.41357
+max. nodes: 2281, filled: 0.495009
+part/sec=44699.7 | 31547.5  ia/part=602.073 (0)
+
+Step= 104  t= 0.890859  dt= 0.00492187 
+Nf= 0000003704  total-Nf= 0003027380  ex-frac= 4.83315  iter= 1
+work-load balance: 1.72281  max=0.0137789 avg=0.00799794 PE0=0.0118041
+particle-load balance: 1.41748
+max. nodes: 2274, filled: 0.49349
+part/sec=28944.9 | 16801  ia/part=890.253 (0)
+
+Step= 105  t= 0.895781  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003060148  ex-frac= 2.96628  iter= 1
+work-load balance: 1.41379  max=0.0644879 avg=0.0456137 PE0=0.053911
+particle-load balance: 1.41406
+max. nodes: 2271, filled: 0.492839
+part/sec=44898.8 | 31757.9  ia/part=601.948 (0)
+
+Step= 106  t= 0.900703  dt= 0.00492188 
+Nf= 0000004420  total-Nf= 0003064568  ex-frac= 4.99344  iter= 1
+work-load balance: 1.69134  max=0.0165749 avg=0.00979985 PE0=0.0146022
+particle-load balance: 1.44971
+max. nodes: 2271, filled: 0.492839
+part/sec=28189.2 | 16666.8  ia/part=885.09 (0)
+
+Step= 107  t= 0.905625  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003097336  ex-frac= 3.03671  iter= 1
+work-load balance: 1.4105  max=0.064573 avg=0.0457804 PE0=0.0534708
+particle-load balance: 1.45752
+max. nodes: 2260, filled: 0.490451
+part/sec=44735.3 | 31716  ia/part=601.351 (0)
+
+Step= 108  t= 0.910547  dt= 0.00492187 
+Nf= 0000005142  total-Nf= 0003102478  ex-frac= 5.22229  iter= 1
+work-load balance: 1.69704  max=0.0187149 avg=0.011028 PE0=0.016258
+particle-load balance: 1.46484
+max. nodes: 2254, filled: 0.489149
+part/sec=29141.8 | 17172.1  ia/part=878.258 (0)
+
+Step= 109  t= 0.915469  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0003135246  ex-frac= 3.06293  iter= 1
+work-load balance: 1.44168  max=0.0654521 avg=0.0454 PE0=0.0528402
+particle-load balance: 1.45557
+max. nodes: 2247, filled: 0.48763
+part/sec=45110.2 | 31290.1  ia/part=601.146 (0)
+
+Step= 110  t= 0.920391  dt= 0.00492187 
+Nf= 0000005980  total-Nf= 0003141226  ex-frac= 5.31739  iter= 1
+work-load balance: 1.63928  max=0.0208137 avg=0.0126969 PE0=0.019027
+particle-load balance: 1.46582
+max. nodes: 2254, filled: 0.489149
+part/sec=29436.3 | 17956.9  ia/part=868.826 (0)
+
+Step= 111  t= 0.925312  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003173994  ex-frac= 3.17032  iter= 1
+work-load balance: 1.42673  max=0.065618 avg=0.0459919 PE0=0.0538361
+particle-load balance: 1.45459
+max. nodes: 2227, filled: 0.48329
+part/sec=44529.6 | 31210.9  ia/part=600.711 (0)
+
+Step= 112  t= 0.930234  dt= 0.00492188 
+Nf= 0000006966  total-Nf= 0003180960  ex-frac= 5.40411  iter= 1
+work-load balance: 1.62509  max=0.0242109 avg=0.0148982 PE0=0.0213571
+particle-load balance: 1.46533
+max. nodes: 2219, filled: 0.481554
+part/sec=29223.4 | 17982.6  ia/part=858.92 (0)
+
+Step= 113  t= 0.935156  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003213728  ex-frac= 3.30515  iter= 1
+work-load balance: 1.45884  max=0.0663803 avg=0.045502 PE0=0.052557
+particle-load balance: 1.46387
+max. nodes: 2208, filled: 0.479167
+part/sec=45009 | 30852.5  ia/part=600.602 (0)
+
+Step= 114  t= 0.940078  dt= 0.00492187 
+Nf= 0000007992  total-Nf= 0003221720  ex-frac= 5.53328  iter= 1
+work-load balance: 1.51027  max=0.0253441 avg=0.0167812 PE0=0.024296
+particle-load balance: 1.46484
+max. nodes: 2216, filled: 0.480903
+part/sec=29765.5 | 19708.7  ia/part=847.297 (0)
+
+Step= 115  t= 0.945  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0003254488  ex-frac= 3.33069  iter= 1
+work-load balance: 1.44434  max=0.0660839 avg=0.0457537 PE0=0.0540481
+particle-load balance: 1.46338
+max. nodes: 2214, filled: 0.480469
+part/sec=44761.4 | 30990.9  ia/part=600.312 (0)
+
+Step= 116  t= 0.949922  dt= 0.00492187 
+Nf= 0000009005  total-Nf= 0003263493  ex-frac= 5.54003  iter= 1
+work-load balance: 1.53863  max=0.028121 avg=0.0182766 PE0=0.0269699
+particle-load balance: 1.46094
+max. nodes: 2213, filled: 0.480252
+part/sec=30794.1 | 20014  ia/part=833.485 (0)
+
+Step= 117  t= 0.954844  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003296261  ex-frac= 3.37811  iter= 1
+work-load balance: 1.43211  max=0.065098 avg=0.0454561 PE0=0.053365
+particle-load balance: 1.46289
+max. nodes: 2252, filled: 0.488715
+part/sec=45054.5 | 31460.2  ia/part=599.881 (0)
+
+Step= 118  t= 0.959766  dt= 0.00492187 
+Nf= 0000010223  total-Nf= 0003306484  ex-frac= 5.32926  iter= 1
+work-load balance: 1.49389  max=0.030643 avg=0.0205122 PE0=0.029376
+particle-load balance: 1.46533
+max. nodes: 2316, filled: 0.502604
+part/sec=31149.1 | 20851  ia/part=823.029 (0)
+
+Step= 119  t= 0.964688  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0003339252  ex-frac= 3.03845  iter= 1
+work-load balance: 1.48231  max=0.0686128 avg=0.0462878 PE0=0.055712
+particle-load balance: 1.46729
+max. nodes: 2499, filled: 0.542318
+part/sec=44244.9 | 29848.7  ia/part=599.307 (0)
+
+Step= 120  t= 0.969609  dt= 0.00492187 
+Nf= 0000011416  total-Nf= 0003350668  ex-frac= 4.3863  iter= 1
+work-load balance: 1.49439  max=0.0343859 avg=0.0230101 PE0=0.0326271
+particle-load balance: 1.46484
+max. nodes: 2531, filled: 0.549262
+part/sec=31008.2 | 20749.8  ia/part=813.879 (0)
+
+Step= 121  t= 0.974531  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003383436  ex-frac= 2.88892  iter= 1
+work-load balance: 1.43615  max=0.0650759 avg=0.0453127 PE0=0.0523541
+particle-load balance: 1.46533
+max. nodes: 2580, filled: 0.559896
+part/sec=45197.1 | 31471  ia/part=598.061 (0)
+
+Step= 122  t= 0.979453  dt= 0.00492188 
+Nf= 0000012572  total-Nf= 0003396008  ex-frac= 4.35595  iter= 1
+work-load balance: 1.50054  max=0.0383821 avg=0.0255788 PE0=0.0375671
+particle-load balance: 1.46924
+max. nodes: 2522, filled: 0.547309
+part/sec=30718.8 | 20471.8  ia/part=817.636 (0)
+
+Step= 123  t= 0.984375  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003428776  ex-frac= 2.90909  iter= 1
+work-load balance: 1.42459  max=0.0656343 avg=0.0460725 PE0=0.0517762
+particle-load balance: 1.46777
+max. nodes: 2565, filled: 0.556641
+part/sec=44451.7 | 31203.2  ia/part=596.493 (0)
+
+Step= 124  t= 0.989297  dt= 0.00492187 
+Nf= 0000013386  total-Nf= 0003442162  ex-frac= 4.25295  iter= 1
+work-load balance: 1.53258  max=0.0411699 avg=0.0268631 PE0=0.0401411
+particle-load balance: 1.46924
+max. nodes: 2579, filled: 0.559679
+part/sec=31144 | 20321.3  ia/part=813.902 (0)
+
+Step= 125  t= 0.994219  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0003474930  ex-frac= 2.78903  iter= 1
+work-load balance: 1.42628  max=0.0648639 avg=0.0454778 PE0=0.0516078
+particle-load balance: 1.46387
+max. nodes: 2597, filled: 0.563585
+part/sec=45033 | 31573.8  ia/part=595.301 (0)
+
+Step= 126  t= 0.999141  dt= 0.00492187 
+Nf= 0000014006  total-Nf= 0003488936  ex-frac= 3.92075  iter= 1
+work-load balance: 1.52486  max=0.0425777 avg=0.0279223 PE0=0.0424831
+particle-load balance: 1.46875
+max. nodes: 2593, filled: 0.562717
+part/sec=31350.3 | 20559.5  ia/part=803.581 (0)
+
+Step= 127  t= 1.00406  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0003521704  ex-frac= 2.78305  iter= 1
+work-load balance: 1.45374  max=0.0658157 avg=0.0452732 PE0=0.0517671
+particle-load balance: 1.4668
+max. nodes: 2587, filled: 0.561415
+part/sec=45236.5 | 31117.2  ia/part=594.839 (0)
+
+Step= 128  t= 1.00898  dt= 0.00492187 
+Nf= 0000014549  total-Nf= 0003536253  ex-frac= 3.90996  iter= 1
+work-load balance: 1.56075  max=0.0442419 avg=0.0283466 PE0=0.042999
+particle-load balance: 1.46875
+max. nodes: 2586, filled: 0.561198
+part/sec=32078.4 | 20553.2  ia/part=795.438 (0)
+
+Step= 129  t= 1.01391  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003569021  ex-frac= 2.73346  iter= 1
+work-load balance: 1.44709  max=0.0651751 avg=0.0450387 PE0=0.051749
+particle-load balance: 1.46875
+max. nodes: 2570, filled: 0.557726
+part/sec=45472 | 31423.1  ia/part=593.832 (0)
+
+Step= 130  t= 1.01883  dt= 0.00492187 
+Nf= 0000015075  total-Nf= 0003584096  ex-frac= 3.83476  iter= 1
+work-load balance: 1.5331  max=0.044569 avg=0.0290712 PE0=0.0437682
+particle-load balance: 1.46631
+max. nodes: 2578, filled: 0.559462
+part/sec=32409.6 | 21140  ia/part=786.869 (0)
+
+Step= 131  t= 1.02375  dt= 0.00492187 
+Nf= 0000032768  total-Nf= 0003616864  ex-frac= 2.83383  iter= 1
+work-load balance: 1.42014  max=0.0642269 avg=0.0452257 PE0=0.0527132
+particle-load balance: 1.46875
+max. nodes: 2537, filled: 0.550564
+part/sec=45283.9 | 31887  ia/part=592.853 (0)
+
+Step= 132  t= 1.02867  dt= 0.00492187 
+Nf= 0000015486  total-Nf= 0003632350  ex-frac= 3.97624  iter= 1
+work-load balance: 1.54454  max=0.0458138 avg=0.0296617 PE0=0.0441759
+particle-load balance: 1.46582
+max. nodes: 2539, filled: 0.550998
+part/sec=32630.5 | 21126.3  ia/part=780.204 (0)
+
+Step= 133  t= 1.03359  dt= 0.00492188 
+Nf= 0000032768  total-Nf= 0003665118  ex-frac= 2.81473  iter= 1
+work-load balance: 1.39825  max=0.0636561 avg=0.0455254 PE0=0.0534601
+particle-load balance: 1.46924
+max. nodes: 2538, filled: 0.550781
+part/sec=44985.8 | 32172.9  ia/part=592.38 (0)
+
+Step= 134  t= 1.03605  dt= 0.00246094 
+Nf= 0000000002  total-Nf= 0003665120  ex-frac= 6  iter= 1
+work-load balance: 5.20036  max=8.70228e-05 avg=1.6734e-05 PE0=8.70228e-05
+particle-load balance: 1.46924
+max. nodes: 2538, filled: 0.550781
+part/sec=7469.82 | 1436.41  ia/part=1431 (0)
+
+Step= 135  t= 1.03852  dt= 0.00246094 
+Nf= 0000015889  total-Nf= 0003681009  ex-frac= 4.03852  iter= 1
+work-load balance: 1.55979  max=0.047312 avg=0.0303324 PE0=0.0459027
+particle-load balance: 1.46387
+max. nodes: 2545, filled: 0.5523
+part/sec=32739.4 | 20989.6  ia/part=774.89 (0)
+
+Step= 136  t= 1.04098  dt= 0.00246094 
+Nf= 0000000160  total-Nf= 0003681169  ex-frac= 8.76875  iter= 1
+work-load balance: 3.12526  max=0.00192404 avg=0.000615641 PE0=0.00192404
+particle-load balance: 1.46387
+max. nodes: 2545, filled: 0.5523
+part/sec=16243.2 | 5197.4  ia/part=1388.81 (0)
+
+Step= 137  t= 1.04344  dt= 0.00246094 
+Nf= 0000032768  total-Nf= 0003713937  ex-frac= 2.89819  iter= 1
+work-load balance: 1.41259  max=0.0640392 avg=0.0453347 PE0=0.052525
+particle-load balance: 1.46436
+max. nodes: 2549, filled: 0.553168
+part/sec=45175.1 | 31980.4  ia/part=592.641 (0)
+
+Step= 138  t= 1.0459  dt= 0.00246094 
+Nf= 0000000690  total-Nf= 0003714627  ex-frac= 9.01884  iter= 1
+work-load balance: 3.33714  max=0.00863719 avg=0.0025882 PE0=0.00863719
+particle-load balance: 1.46436
+max. nodes: 2549, filled: 0.553168
+part/sec=16662.2 | 4992.94  ia/part=1410.47 (0)
+
+Step= 139  t= 1.04836  dt= 0.00246094 
+Nf= 0000016223  total-Nf= 0003730850  ex-frac= 4.09302  iter= 1
+work-load balance: 1.56871  max=0.0485938 avg=0.0309768 PE0=0.043081
+particle-load balance: 1.46875
+max. nodes: 2567, filled: 0.557075
+part/sec=32732.1 | 20865.6  ia/part=770.342 (0)
+
+Step= 140  t= 1.05082  dt= 0.00246094 
+Nf= 0000001468  total-Nf= 0003732318  ex-frac= 8.40123  iter= 1
+work-load balance: 2.92773  max=0.015415 avg=0.00526515 PE0=0.015415
+particle-load balance: 1.46875
+max. nodes: 2567, filled: 0.557075
+part/sec=17425.9 | 5952.01  ia/part=1325.88 (0)
+
+Step= 141  t= 1.05328  dt= 0.00246094 
+Nf= 0000032768  total-Nf= 0003765086  ex-frac= 2.88321  iter= 1
+work-load balance: 1.46634  max=0.0662 avg=0.0451463 PE0=0.0474238
+particle-load balance: 1.46436
+max. nodes: 2549, filled: 0.553168
+part/sec=45363.6 | 30936.5  ia/part=592.452 (0)
+
+Step= 142  t= 1.05574  dt= 0.00246094 
+Nf= 0000002136  total-Nf= 0003767222  ex-frac= 7.60534  iter= 1
+work-load balance: 2.77284  max=0.0188069 avg=0.00678256 PE0=0.0188069
+particle-load balance: 1.46436
+max. nodes: 2549, filled: 0.553168
+part/sec=19682.8 | 7098.45  ia/part=1241.93 (0)
+
+Step= 143  t= 1.0582  dt= 0.00246094 
+Nf= 0000016525  total-Nf= 0003783747  ex-frac= 3.98239  iter= 1
+work-load balance: 1.54096  max=0.047545 avg=0.0308541 PE0=0.039511
+particle-load balance: 1.46729
+max. nodes: 2522, filled: 0.547309
+part/sec=33474.1 | 21722.9  ia/part=765.693 (0)
+
+Step= 144  t= 1.06066  dt= 0.00246094 
+Nf= 0000002858  total-Nf= 0003786605  ex-frac= 7.05283  iter= 1
+work-load balance: 2.52997  max=0.022265 avg=0.00880049 PE0=0.022265
+particle-load balance: 1.46729
+max. nodes: 2522, filled: 0.547309
+part/sec=20297.2 | 8022.7  ia/part=1168.45 (0)
+
+Step= 145  t= 1.06313  dt= 0.00246094 
+Nf= 0000032768  total-Nf= 0003819373  ex-frac= 2.86688  iter= 1
+work-load balance: 1.52043  max=0.0683348 avg=0.0449445 PE0=0.0483479
+particle-load balance: 1.46924
+max. nodes: 2521, filled: 0.547092
+part/sec=45567.3 | 29970.1  ia/part=592.455 (0)
+
+Step= 146  t= 1.06559  dt= 0.00246094 
+Nf= 0000003574  total-Nf= 0003822947  ex-frac= 6.45831  iter= 1
+work-load balance: 2.51446  max=0.0245671 avg=0.00977033 PE0=0.0245671
+particle-load balance: 1.46729
+max. nodes: 2525, filled: 0.54796
+part/sec=22862.6 | 9092.43  ia/part=1087.78 (0)
+
+Step= 147  t= 1.06805  dt= 0.00246094 
+Nf= 0000016824  total-Nf= 0003839771  ex-frac= 3.96588  iter= 1
+work-load balance: 1.4842  max=0.0462708 avg=0.0311756 PE0=0.0418129
+particle-load balance: 1.46875
+max. nodes: 2501, filled: 0.542752
+part/sec=33728.3 | 22724.9  ia/part=762.321 (0)
+
+Step= 148  t= 1.07051  dt= 0.00246094 
+Nf= 0000004269  total-Nf= 0003844040  ex-frac= 6.18646  iter= 1
+work-load balance: 2.42797  max=0.027771 avg=0.011438 PE0=0.027771
+particle-load balance: 1.46924
+max. nodes: 2500, filled: 0.542535
+part/sec=23326.9 | 9607.6  ia/part=1045.06 (0)
+
+Step= 149  t= 1.07297  dt= 0.00246094 
+Nf= 0000032768  total-Nf= 0003876808  ex-frac= 2.86493  iter= 1
+work-load balance: 1.56545  max=0.0703712 avg=0.0449526 PE0=0.0501099
+particle-load balance: 1.4668
+max. nodes: 2505, filled: 0.54362
+part/sec=45559.1 | 29102.8  ia/part=592.611 (0)
+
+Step= 150  t= 1.07543  dt= 0.00246094 
+Nf= 0000004910  total-Nf= 0003881718  ex-frac= 6.05418  iter= 1
+work-load balance: 2.40163  max=0.030005 avg=0.0124936 PE0=0.030005
+particle-load balance: 1.46973
+max. nodes: 2504, filled: 0.543403
+part/sec=24562.6 | 10227.5  ia/part=1017.51 (0)
+
+Step= 151  t= 1.07789  dt= 0.00246094 
+Nf= 0000017102  total-Nf= 0003898820  ex-frac= 4.09204  iter= 1
+work-load balance: 1.55492  max=0.0498941 avg=0.0320879 PE0=0.0437052
+particle-load balance: 1.46484
+max. nodes: 2489, filled: 0.540148
+part/sec=33310.9 | 21422.9  ia/part=758.966 (0)
+
+Step= 152  t= 1.08035  dt= 0.00246094 
+Nf= 0000005576  total-Nf= 0003904396  ex-frac= 5.76793  iter= 1
+work-load balance: 2.28012  max=0.0307741 avg=0.0134967 PE0=0.0307741
+particle-load balance: 1.4668
+max. nodes: 2492, filled: 0.540799
+part/sec=25821.1 | 11324.5  ia/part=988.854 (0)
+
+Step= 153  t= 1.08281  dt= 0.00246094 
+Nf= 0000032768  total-Nf= 0003937164  ex-frac= 2.901  iter= 1
+work-load balance: 1.55577  max=0.0712121 avg=0.0457728 PE0=0.0524626
+particle-load balance: 1.46924
+max. nodes: 2488, filled: 0.539931
+part/sec=44742.7 | 28759.2  ia/part=592.329 (0)
+
+Step= 154  t= 1.08404  dt= 0.00123047 
+Nf= 0000000008  total-Nf= 0003937172  ex-frac= 11.75  iter= 1
+work-load balance: 3.7155  max=0.000182152 avg=4.90248e-05 PE0=0.000182152
+particle-load balance: 1.46924
+max. nodes: 2488, filled: 0.539931
+part/sec=10198.9 | 2744.96  ia/part=1679.75 (0)
+
+Step= 155  t= 1.08527  dt= 0.00123047 
+Nf= 0000006149  total-Nf= 0003943321  ex-frac= 5.77476  iter= 1
+work-load balance: 2.25186  max=0.032696 avg=0.0145196 PE0=0.032696
+particle-load balance: 1.46875
+max. nodes: 2484, filled: 0.539062
+part/sec=26468.6 | 11754.1  ia/part=967.877 (0)
+
+Step= 156  t= 1.0865  dt= 0.00123047 
+Nf= 0000000076  total-Nf= 0003943397  ex-frac= 11.0658  iter= 1
+work-load balance: 3.54897  max=0.00112796 avg=0.000317827 PE0=0.00112796
+particle-load balance: 1.46875
+max. nodes: 2484, filled: 0.539062
+part/sec=14945.2 | 4211.15  ia/part=1612.99 (0)
+
+Step= 157  t= 1.08773  dt= 0.00123047 
+Nf= 0000017363  total-Nf= 0003960760  ex-frac= 3.93048  iter= 1
+work-load balance: 1.5569  max=0.0498059 avg=0.0319904 PE0=0.0429001
+particle-load balance: 1.46973
+max. nodes: 2515, filled: 0.54579
+part/sec=33922.3 | 21788.3  ia/part=754.42 (0)
+
+Step= 158  t= 1.08896  dt= 0.00123047 
+Nf= 0000000275  total-Nf= 0003961035  ex-frac= 10.3345  iter= 1
+work-load balance: 4.24568  max=0.0044148 avg=0.00103983 PE0=0.0044148
+particle-load balance: 1.46973
+max. nodes: 2515, filled: 0.54579
+part/sec=16529.1 | 3893.16  ia/part=1496.83 (0)
+
+Step= 159  t= 1.0902  dt= 0.00123047 
+Nf= 0000006709  total-Nf= 0003967744  ex-frac= 5.46773  iter= 1
+work-load balance: 2.00085  max=0.031096 avg=0.0155414 PE0=0.031096
+particle-load balance: 1.46533
+max. nodes: 2573, filled: 0.558377
+part/sec=26980.4 | 13484.5  ia/part=947.703 (0)
+
+Step= 160  t= 1.09143  dt= 0.00123047 
+Nf= 0000000643  total-Nf= 0003968387  ex-frac= 9.64852  iter= 1
+work-load balance: 4.0172  max=0.00910497 avg=0.0022665 PE0=0.00910497
+particle-load balance: 1.46533
+max. nodes: 2573, filled: 0.558377
+part/sec=17731.1 | 4413.8  ia/part=1408.94 (0)
+
+Step= 161  t= 1.09266  dt= 0.00123047 
+Nf= 0000032768  total-Nf= 0004001155  ex-frac= 2.75122  iter= 1
+work-load balance: 1.58334  max=0.0718527 avg=0.0453804 PE0=0.0420229
+particle-load balance: 1.46777
+max. nodes: 2648, filled: 0.574653
+part/sec=45129.6 | 28502.8  ia/part=591.853 (0)
+
+Step= 162  t= 1.09389  dt= 0.00123047 
+Nf= 0000001033  total-Nf= 0004002188  ex-frac= 8.54211  iter= 1
+work-load balance: 3.92234  max=0.013453 avg=0.00342984 PE0=0.013453
+particle-load balance: 1.46777
+max. nodes: 2648, filled: 0.574653
+part/sec=18823.7 | 4799.11  ia/part=1324.65 (0)
+
+Step= 163  t= 1.09512  dt= 0.00123047 
+Nf= 0000007243  total-Nf= 0004009431  ex-frac= 4.90501  iter= 1
+work-load balance: 1.67062  max=0.0276172 avg=0.0165312 PE0=0.0267041
+particle-load balance: 1.46436
+max. nodes: 2687, filled: 0.583116
+part/sec=27383.9 | 16391.5  ia/part=931.567 (0)
+
+Step= 164  t= 1.09635  dt= 0.00123047 
+Nf= 0000001409  total-Nf= 0004010840  ex-frac= 8.05678  iter= 1
+work-load balance: 3.6515  max=0.0164077 avg=0.00449342 PE0=0.0164077
+particle-load balance: 1.46436
+max. nodes: 2687, filled: 0.583116
+part/sec=19598.1 | 5367.14  ia/part=1260.57 (0)
+
+Step= 165  t= 1.09758  dt= 0.00123047 
+Nf= 0000017616  total-Nf= 0004028456  ex-frac= 3.53378  iter= 1
+work-load balance: 1.66102  max=0.052 avg=0.0313061 PE0=0.0307398
+particle-load balance: 1.46338
+max. nodes: 2691, filled: 0.583984
+part/sec=35168.9 | 21173.1  ia/part=750.021 (0)
+
+Step= 166  t= 1.09881  dt= 0.00123047 
+Nf= 0000001772  total-Nf= 0004030228  ex-frac= 7.6123  iter= 1
+work-load balance: 3.4482  max=0.0182991 avg=0.00530685 PE0=0.0182991
+particle-load balance: 1.46338
+max. nodes: 2691, filled: 0.583984
+part/sec=20869.2 | 6052.21  ia/part=1214.02 (0)
+
+Step= 167  t= 1.10004  dt= 0.00123047 
+Nf= 0000007773  total-Nf= 0004038001  ex-frac= 4.63991  iter= 1
+work-load balance: 1.62268  max=0.027493 avg=0.0169429 PE0=0.0274498
+particle-load balance: 1.46875
+max. nodes: 2692, filled: 0.584201
+part/sec=28673.4 | 17670.4  ia/part=915.469 (0)
+
+Step= 168  t= 1.10127  dt= 0.00123047 
+Nf= 0000002117  total-Nf= 0004040118  ex-frac= 7.08503  iter= 1
+work-load balance: 3.33232  max=0.020324 avg=0.00609905 PE0=0.020324
+particle-load balance: 1.46875
+max. nodes: 2692, filled: 0.584201
+part/sec=21694 | 6510.16  ia/part=1176.56 (0)
+
+Step= 169  t= 1.1025  dt= 0.00123047 
+Nf= 0000032768  total-Nf= 0004072886  ex-frac= 2.64001  iter= 1
+work-load balance: 1.63501  max=0.0729332 avg=0.0446071 PE0=0.037889
+particle-load balance: 1.46631
+max. nodes: 2716, filled: 0.58941
+part/sec=45912 | 28080.5  ia/part=591.081 (0)
+
+Step= 170  t= 1.10373  dt= 0.00123047 
+Nf= 0000002464  total-Nf= 0004075350  ex-frac= 6.78247  iter= 1
+work-load balance: 3.1492  max=0.0214739 avg=0.00681883 PE0=0.0214739
+particle-load balance: 1.46631
+max. nodes: 2716, filled: 0.58941
+part/sec=22584.5 | 7171.5  ia/part=1144.9 (0)
+
+Step= 171  t= 1.10496  dt= 0.00123047 
+Nf= 0000008223  total-Nf= 0004083573  ex-frac= 4.54579  iter= 1
+work-load balance: 1.59825  max=0.027812 avg=0.0174015 PE0=0.027812
+particle-load balance: 1.46436
+max. nodes: 2706, filled: 0.58724
+part/sec=29534.1 | 18479  ia/part=902.155 (0)
+
+Step= 172  t= 1.10619  dt= 0.00123047 
+Nf= 0000002783  total-Nf= 0004086356  ex-frac= 6.34819  iter= 1
+work-load balance: 3.09247  max=0.022943 avg=0.00741899 PE0=0.022943
+particle-load balance: 1.46436
+max. nodes: 2706, filled: 0.58724
+part/sec=23444.9 | 7581.28  ia/part=1115.08 (0)
+
+Step= 173  t= 1.10742  dt= 0.00123047 
+Nf= 0000017855  total-Nf= 0004104211  ex-frac= 3.53078  iter= 1
+work-load balance: 1.61058  max=0.0502548 avg=0.031203 PE0=0.0339081
+particle-load balance: 1.46973
+max. nodes: 2698, filled: 0.585503
+part/sec=35763.8 | 22205.6  ia/part=744.962 (0)
+
+Step= 174  t= 1.10865  dt= 0.00123047 
+Nf= 0000003111  total-Nf= 0004107322  ex-frac= 6.08165  iter= 1
+work-load balance: 3.08448  max=0.0254672 avg=0.00825655 PE0=0.0254672
+particle-load balance: 1.46973
+max. nodes: 2698, filled: 0.585503
+part/sec=23549.5 | 7634.83  ia/part=1093.13 (0)
+
+Step= 175  t= 1.10988  dt= 0.00123047 
+Nf= 0000008660  total-Nf= 0004115982  ex-frac= 4.39411  iter= 1
+work-load balance: 1.69588  max=0.0301909 avg=0.0178025 PE0=0.0301909
+particle-load balance: 1.46875
+max. nodes: 2727, filled: 0.591797
+part/sec=30403 | 17927.6  ia/part=889.53 (0)
+
+Step= 176  t= 1.11111  dt= 0.00123047 
+Nf= 0000003437  total-Nf= 0004119419  ex-frac= 5.58132  iter= 1
+work-load balance: 3.12344  max=0.026298 avg=0.00841959 PE0=0.026298
+particle-load balance: 1.46973
+max. nodes: 2702, filled: 0.586372
+part/sec=25513.4 | 8168.38  ia/part=1055.2 (0)
+
+Step= 177  t= 1.11234  dt= 0.00123047 
+Nf= 0000032768  total-Nf= 0004152187  ex-frac= 2.66455  iter= 1
+work-load balance: 1.51799  max=0.0672438 avg=0.0442979 PE0=0.0426362
+particle-load balance: 1.46924
+max. nodes: 2705, filled: 0.587023
+part/sec=46232.5 | 30456.3  ia/part=589.403 (0)
+
+Step= 178  t= 1.11357  dt= 0.00123047 
+Nf= 0000003712  total-Nf= 0004155899  ex-frac= 5.37258  iter= 1
+work-load balance: 3.13153  max=0.0277522 avg=0.00886218 PE0=0.0277522
+particle-load balance: 1.46924
+max. nodes: 2741, filled: 0.594835
+part/sec=26178.7 | 8359.71  ia/part=1036.58 (0)
+
+Step= 179  t= 1.1148  dt= 0.00123047 
+Nf= 0000009036  total-Nf= 0004164935  ex-frac= 4.26704  iter= 1
+work-load balance: 1.75366  max=0.0317543 avg=0.0181075 PE0=0.0317543
+particle-load balance: 1.46924
+max. nodes: 2728, filled: 0.592014
+part/sec=31188.8 | 17785  ia/part=877.98 (0)
+
+Step= 180  t= 1.11604  dt= 0.00123047 
+Nf= 0000003999  total-Nf= 0004168934  ex-frac= 5.15579  iter= 1
+work-load balance: 2.84703  max=0.0283828 avg=0.00996926 PE0=0.0283828
+particle-load balance: 1.46924
+max. nodes: 2719, filled: 0.590061
+part/sec=25070.8 | 8805.96  ia/part=1020.32 (0)
+
+Step= 181  t= 1.11727  dt= 0.00123047 
+Nf= 0000018077  total-Nf= 0004187011  ex-frac= 3.33136  iter= 1
+work-load balance: 1.63526  max=0.0501471 avg=0.030666 PE0=0.036438
+particle-load balance: 1.46875
+max. nodes: 2734, filled: 0.593316
+part/sec=36842.5 | 22530  ia/part=739.443 (0)
+
+Step= 182  t= 1.1185  dt= 0.00123047 
+Nf= 0000004255  total-Nf= 0004191266  ex-frac= 4.99083  iter= 1
+work-load balance: 3.04779  max=0.0294969 avg=0.00967814 PE0=0.0294969
+particle-load balance: 1.4668
+max. nodes: 2737, filled: 0.593967
+part/sec=27478.2 | 9015.78  ia/part=1005.7 (0)
+
+Step= 183  t= 1.11973  dt= 0.00123047 
+Nf= 0000009457  total-Nf= 0004200723  ex-frac= 4.0792  iter= 1
+work-load balance: 1.76752  max=0.0324738 avg=0.0183726 PE0=0.0324738
+particle-load balance: 1.4668
+max. nodes: 2720, filled: 0.590278
+part/sec=32171 | 18201.2  ia/part=868.044 (0)
+
+Step= 184  t= 1.12096  dt= 0.00123047 
+Nf= 0000004523  total-Nf= 0004205246  ex-frac= 4.88879  iter= 1
+work-load balance: 3.02265  max=0.0305471 avg=0.0101061 PE0=0.0305471
+particle-load balance: 1.46924
+max. nodes: 2716, filled: 0.58941
+part/sec=27972 | 9254.14  ia/part=991.195 (0)
+
+Step= 185  t= 1.12219  dt= 0.00123047 
+Nf= 0000032768  total-Nf= 0004238014  ex-frac= 2.55957  iter= 1
+work-load balance: 1.60267  max=0.0705798 avg=0.0440388 PE0=0.0465801
+particle-load balance: 1.46973
+max. nodes: 2723, filled: 0.590929
+part/sec=46504.4 | 29016.8  ia/part=587.822 (0)
+
+Step= 186  t= 1.12342  dt= 0.00123047 
+Nf= 0000004765  total-Nf= 0004242779  ex-frac= 4.7511  iter= 1
+work-load balance: 2.99528  max=0.0314469 avg=0.0104988 PE0=0.0314469
+particle-load balance: 1.46729
+max. nodes: 2717, filled: 0.589627
+part/sec=28366.3 | 9470.32  ia/part=979.047 (0)
+
+Step= 187  t= 1.12465  dt= 0.00123047 
+Nf= 0000009796  total-Nf= 0004252575  ex-frac= 3.93885  iter= 1
+work-load balance: 1.83644  max=0.0343242 avg=0.0186906 PE0=0.0343242
+particle-load balance: 1.46973
+max. nodes: 2707, filled: 0.587457
+part/sec=32757.1 | 17837.3  ia/part=858.097 (0)
+
+Step= 188  t= 1.12588  dt= 0.00123047 
+Nf= 0000005028  total-Nf= 0004257603  ex-frac= 4.71161  iter= 1
+work-load balance: 2.94817  max=0.0322981 avg=0.0109553 PE0=0.0322981
+particle-load balance: 1.46973
+max. nodes: 2699, filled: 0.58572
+part/sec=28684.8 | 9729.68  ia/part=967.472 (0)
+
+Step= 189  t= 1.12649  dt= 0.000615234 
+Nf= 0000000005  total-Nf= 0004257608  ex-frac= 10.8  iter= 1
+work-load balance: 4.45434  max=0.000149012 avg=3.34531e-05 PE0=0.000149012
+particle-load balance: 1.46973
+max. nodes: 2699, filled: 0.58572
+part/sec=9341.43 | 2097.15  ia/part=1666.6 (0)
+
+Step= 190  t= 1.12711  dt= 0.000615234 
+Nf= 0000018308  total-Nf= 0004275916  ex-frac= 3.26595  iter= 1
+work-load balance: 1.7091  max=0.0523388 avg=0.0306237 PE0=0.0393801
+particle-load balance: 1.46973
+max. nodes: 2702, filled: 0.586372
+part/sec=37364.9 | 21862.3  ia/part=733.014 (0)
+
+Step= 191  t= 1.12772  dt= 0.000615234 
+Nf= 0000000009  total-Nf= 0004275925  ex-frac= 10.5556  iter= 1
+work-load balance: 5.25537  max=0.000273228 avg=5.19902e-05 PE0=0.000273228
+particle-load balance: 1.46973
+max. nodes: 2702, filled: 0.586372
+part/sec=10819.4 | 2058.72  ia/part=1673 (0)
+
+Step= 192  t= 1.12834  dt= 0.000615234 
+Nf= 0000005259  total-Nf= 0004281184  ex-frac= 4.6737  iter= 1
+work-load balance: 2.9351  max=0.0331519 avg=0.011295 PE0=0.0331519
+particle-load balance: 1.46924
+max. nodes: 2707, filled: 0.587457
+part/sec=29100.3 | 9914.6  ia/part=956.581 (0)
+
+Step= 193  t= 1.12896  dt= 0.000615234 
+Nf= 0000000015  total-Nf= 0004281199  ex-frac= 10.2667  iter= 1
+work-load balance: 6.305  max=0.000439882 avg=6.97672e-05 PE0=0.000439882
+particle-load balance: 1.46924
+max. nodes: 2707, filled: 0.587457
+part/sec=13437.5 | 2131.25  ia/part=1548.6 (0)
+
+Step= 194  t= 1.12957  dt= 0.000615234 
+Nf= 0000010143  total-Nf= 0004291342  ex-frac= 3.94873  iter= 1
+work-load balance: 1.79687  max=0.0344338 avg=0.0191632 PE0=0.0344338
+particle-load balance: 1.46973
+max. nodes: 2689, filled: 0.58355
+part/sec=33080.9 | 18410.3  ia/part=848.522 (0)
+
+Step= 195  t= 1.13019  dt= 0.000615234 
+Nf= 0000000034  total-Nf= 0004291376  ex-frac= 9.73529  iter= 1
+work-load balance: 6.86932  max=0.000921965 avg=0.000134215 PE0=0.000921965
+particle-load balance: 1.46973
+max. nodes: 2689, filled: 0.58355
+part/sec=15832.8 | 2304.86  ia/part=1465.85 (0)
+
+Step= 196  t= 1.1308  dt= 0.000615234 
+Nf= 0000005499  total-Nf= 0004296875  ex-frac= 4.88434  iter= 1
+work-load balance: 2.79097  max=0.0325592 avg=0.0116659 PE0=0.0325592
+particle-load balance: 1.46729
+max. nodes: 2663, filled: 0.577908
+part/sec=29460.9 | 10555.8  ia/part=947.957 (0)
+
+Step= 197  t= 1.13142  dt= 0.000615234 
+Nf= 0000000059  total-Nf= 0004296934  ex-frac= 9.54237  iter= 1
+work-load balance: 6.53616  max=0.00141692 avg=0.000216782 PE0=0.00141692
+particle-load balance: 1.46729
+max. nodes: 2663, filled: 0.577908
+part/sec=17010.2 | 2602.47  ia/part=1405.9 (0)
+
+Step= 198  t= 1.13203  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0004329702  ex-frac= 2.69849  iter= 1
+work-load balance: 1.61928  max=0.071584 avg=0.0442074 PE0=0.0482342
+particle-load balance: 1.46973
+max. nodes: 2649, filled: 0.57487
+part/sec=46327.1 | 28609.8  ia/part=585.526 (0)
+
+Step= 199  t= 1.13265  dt= 0.000615234 
+Nf= 0000000104  total-Nf= 0004329806  ex-frac= 9.77885  iter= 1
+work-load balance: 6.05884  max=0.0022738 avg=0.000375286 PE0=0.0022738
+particle-load balance: 1.46973
+max. nodes: 2649, filled: 0.57487
+part/sec=17320.1 | 2858.65  ia/part=1419.91 (0)
+
+Step= 200  t= 1.13326  dt= 0.000615234 
+Nf= 0000005713  total-Nf= 0004335519  ex-frac= 5.04376  iter= 1
+work-load balance: 2.78704  max=0.033484 avg=0.0120142 PE0=0.033484
+particle-load balance: 1.46729
+max. nodes: 2677, filled: 0.580946
+part/sec=29720.1 | 10663.7  ia/part=938.242 (0)
+
+Step= 201  t= 1.13388  dt= 0.000615234 
+Nf= 0000000164  total-Nf= 0004335683  ex-frac= 9.36585  iter= 1
+work-load balance: 5.80006  max=0.00326109 avg=0.000562251 PE0=0.00326109
+particle-load balance: 1.46729
+max. nodes: 2677, filled: 0.580946
+part/sec=18230.3 | 3143.12  ia/part=1371.06 (0)
+
+Step= 202  t= 1.13449  dt= 0.000615234 
+Nf= 0000010477  total-Nf= 0004346160  ex-frac= 4.41997  iter= 1
+work-load balance: 1.73554  max=0.034235 avg=0.0197258 PE0=0.034235
+particle-load balance: 1.46826
+max. nodes: 2673, filled: 0.580078
+part/sec=33195.7 | 19127  ia/part=839.636 (0)
+
+Step= 203  t= 1.13511  dt= 0.000615234 
+Nf= 0000000265  total-Nf= 0004346425  ex-frac= 9.16226  iter= 1
+work-load balance: 5.8543  max=0.00506902 avg=0.000865862 PE0=0.00506902
+particle-load balance: 1.46826
+max. nodes: 2673, filled: 0.580078
+part/sec=19128.3 | 3267.4  ia/part=1325.45 (0)
+
+Step= 204  t= 1.13572  dt= 0.000615234 
+Nf= 0000005934  total-Nf= 0004352359  ex-frac= 5.27503  iter= 1
+work-load balance: 2.61141  max=0.0328441 avg=0.0125771 PE0=0.0328441
+particle-load balance: 1.46973
+max. nodes: 2673, filled: 0.580078
+part/sec=29488 | 11292  ia/part=929.106 (0)
+
+Step= 205  t= 1.13634  dt= 0.000615234 
+Nf= 0000000392  total-Nf= 0004352751  ex-frac= 8.76531  iter= 1
+work-load balance: 5.77759  max=0.00708604 avg=0.00122647 PE0=0.00708604
+particle-load balance: 1.46973
+max. nodes: 2673, filled: 0.580078
+part/sec=19976 | 3457.5  ia/part=1291.55 (0)
+
+Step= 206  t= 1.13695  dt= 0.000615234 
+Nf= 0000018520  total-Nf= 0004371271  ex-frac= 3.64978  iter= 1
+work-load balance: 1.57971  max=0.0488141 avg=0.0309007 PE0=0.0372379
+particle-load balance: 1.46973
+max. nodes: 2651, filled: 0.575304
+part/sec=37458.7 | 23712.4  ia/part=727.056 (0)
+
+Step= 207  t= 1.13757  dt= 0.000615234 
+Nf= 0000000550  total-Nf= 0004371821  ex-frac= 8.60545  iter= 1
+work-load balance: 5.3763  max=0.00925899 avg=0.00172219 PE0=0.00925899
+particle-load balance: 1.46973
+max. nodes: 2651, filled: 0.575304
+part/sec=19960.1 | 3712.61  ia/part=1247.42 (0)
+
+Step= 208  t= 1.13818  dt= 0.000615234 
+Nf= 0000006164  total-Nf= 0004377985  ex-frac= 5.22437  iter= 1
+work-load balance: 2.48282  max=0.031533 avg=0.0127005 PE0=0.031533
+particle-load balance: 1.46973
+max. nodes: 2647, filled: 0.574436
+part/sec=30333.5 | 12217.4  ia/part=920.976 (0)
+
+Step= 209  t= 1.1388  dt= 0.000615234 
+Nf= 0000000667  total-Nf= 0004378652  ex-frac= 8.57421  iter= 1
+work-load balance: 5.3287  max=0.0104249 avg=0.00195636 PE0=0.0104249
+particle-load balance: 1.46973
+max. nodes: 2647, filled: 0.574436
+part/sec=21308.7 | 3998.86  ia/part=1220.12 (0)
+
+Step= 210  t= 1.13941  dt= 0.000615234 
+Nf= 0000010790  total-Nf= 0004389442  ex-frac= 4.41001  iter= 1
+work-load balance: 1.7064  max=0.0342629 avg=0.020079 PE0=0.031729
+particle-load balance: 1.46973
+max. nodes: 2641, filled: 0.573134
+part/sec=33586 | 19682.4  ia/part=831.549 (0)
+
+Step= 211  t= 1.14003  dt= 0.000615234 
+Nf= 0000000868  total-Nf= 0004390310  ex-frac= 8.37097  iter= 1
+work-load balance: 4.37126  max=0.0124819 avg=0.00285545 PE0=0.0124819
+particle-load balance: 1.46973
+max. nodes: 2641, filled: 0.573134
+part/sec=18998.8 | 4346.28  ia/part=1180.29 (0)
+
+Step= 212  t= 1.14064  dt= 0.000615234 
+Nf= 0000006373  total-Nf= 0004396683  ex-frac= 5.30912  iter= 1
+work-load balance: 2.25405  max=0.0303502 avg=0.0134647 PE0=0.0303502
+particle-load balance: 1.46973
+max. nodes: 2649, filled: 0.57487
+part/sec=29581.9 | 13123.9  ia/part=913.147 (0)
+
+Step= 213  t= 1.14126  dt= 0.000615234 
+Nf= 0000001000  total-Nf= 0004397683  ex-frac= 8.653  iter= 1
+work-load balance: 4.54133  max=0.0130889 avg=0.00288218 PE0=0.0130889
+particle-load balance: 1.46973
+max. nodes: 2649, filled: 0.57487
+part/sec=21685 | 4775.02  ia/part=1161.09 (0)
+
+Step= 214  t= 1.14187  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0004430451  ex-frac= 2.84354  iter= 1
+work-load balance: 1.79389  max=0.0823939 avg=0.0459303 PE0=0.0431249
+particle-load balance: 1.46875
+max. nodes: 2621, filled: 0.568793
+part/sec=44589.3 | 24856.2  ia/part=583.566 (0)
+
+Step= 215  t= 1.14249  dt= 0.000615234 
+Nf= 0000001191  total-Nf= 0004431642  ex-frac= 8.78673  iter= 1
+work-load balance: 4.31602  max=0.0144901 avg=0.00335729 PE0=0.0144901
+particle-load balance: 1.46875
+max. nodes: 2621, filled: 0.568793
+part/sec=22171.9 | 5137.12  ia/part=1134.11 (0)
+
+Step= 216  t= 1.14311  dt= 0.000615234 
+Nf= 0000006564  total-Nf= 0004438206  ex-frac= 5.48126  iter= 1
+work-load balance: 2.17665  max=0.0299292 avg=0.0137501 PE0=0.0299292
+particle-load balance: 1.46875
+max. nodes: 2625, filled: 0.569661
+part/sec=29836.1 | 13707.4  ia/part=905.827 (0)
+
+Step= 217  t= 1.14372  dt= 0.000615234 
+Nf= 0000001330  total-Nf= 0004439536  ex-frac= 8.63383  iter= 1
+work-load balance: 4.33173  max=0.0160131 avg=0.00369671 PE0=0.0160131
+particle-load balance: 1.46875
+max. nodes: 2625, filled: 0.569661
+part/sec=22486.2 | 5191.05  ia/part=1120.09 (0)
+
+Step= 218  t= 1.14434  dt= 0.000615234 
+Nf= 0000011117  total-Nf= 0004450653  ex-frac= 4.6688  iter= 1
+work-load balance: 1.64505  max=0.034903 avg=0.021217 PE0=0.031893
+particle-load balance: 1.46826
+max. nodes: 2607, filled: 0.565755
+part/sec=32748 | 19906.9  ia/part=822.852 (0)
+
+Step= 219  t= 1.14495  dt= 0.000615234 
+Nf= 0000001564  total-Nf= 0004452217  ex-frac= 8.40793  iter= 1
+work-load balance: 4.06627  max=0.0177701 avg=0.00437011 PE0=0.0177701
+particle-load balance: 1.46826
+max. nodes: 2607, filled: 0.565755
+part/sec=22367.9 | 5500.83  ia/part=1091.86 (0)
+
+Step= 220  t= 1.14557  dt= 0.000615234 
+Nf= 0000006791  total-Nf= 0004459008  ex-frac= 5.45015  iter= 1
+work-load balance: 2.17958  max=0.030642 avg=0.0140587 PE0=0.030642
+particle-load balance: 1.46826
+max. nodes: 2594, filled: 0.562934
+part/sec=30190.4 | 13851.5  ia/part=898.204 (0)
+
+Step= 221  t= 1.14618  dt= 0.000615234 
+Nf= 0000001691  total-Nf= 0004460699  ex-frac= 8.26789  iter= 1
+work-load balance: 4.07265  max=0.018255 avg=0.00448234 PE0=0.018255
+particle-load balance: 1.46826
+max. nodes: 2594, filled: 0.562934
+part/sec=23578.6 | 5789.51  ia/part=1081.14 (0)
+
+Step= 222  t= 1.1468  dt= 0.000615234 
+Nf= 0000018735  total-Nf= 0004479434  ex-frac= 3.76467  iter= 1
+work-load balance: 1.65617  max=0.0530419 avg=0.0320269 PE0=0.0362079
+particle-load balance: 1.46875
+max. nodes: 2603, filled: 0.564887
+part/sec=36561 | 22075.7  ia/part=721.302 (0)
+
+Step= 223  t= 1.14741  dt= 0.000615234 
+Nf= 0000001917  total-Nf= 0004481351  ex-frac= 8.06886  iter= 1
+work-load balance: 3.90531  max=0.0193992 avg=0.00496738 PE0=0.0193992
+particle-load balance: 1.46875
+max. nodes: 2603, filled: 0.564887
+part/sec=24119.9 | 6176.17  ia/part=1058.78 (0)
+
+Step= 224  t= 1.14803  dt= 0.000615234 
+Nf= 0000006976  total-Nf= 0004488327  ex-frac= 5.35737  iter= 1
+work-load balance: 2.20843  max=0.031594 avg=0.0143061 PE0=0.031594
+particle-load balance: 1.46338
+max. nodes: 2594, filled: 0.562934
+part/sec=30476.5 | 13800.1  ia/part=890.692 (0)
+
+Step= 225  t= 1.14864  dt= 0.000615234 
+Nf= 0000002051  total-Nf= 0004490378  ex-frac= 7.94978  iter= 1
+work-load balance: 3.84145  max=0.0201411 avg=0.00524311 PE0=0.0201411
+particle-load balance: 1.46338
+max. nodes: 2594, filled: 0.562934
+part/sec=24448.8 | 6364.47  ia/part=1047.75 (0)
+
+Step= 226  t= 1.14926  dt= 0.000615234 
+Nf= 0000011414  total-Nf= 0004501792  ex-frac= 4.58752  iter= 1
+work-load balance: 1.72065  max=0.0368512 avg=0.021417 PE0=0.0310841
+particle-load balance: 1.46973
+max. nodes: 2610, filled: 0.566406
+part/sec=33308.8 | 19358.3  ia/part=814.427 (0)
+
+Step= 227  t= 1.14987  dt= 0.000615234 
+Nf= 0000002280  total-Nf= 0004504072  ex-frac= 7.825  iter= 1
+work-load balance: 3.44821  max=0.0195901 avg=0.00568125 PE0=0.0195901
+particle-load balance: 1.46973
+max. nodes: 2610, filled: 0.566406
+part/sec=25082.5 | 7274.07  ia/part=1031.67 (0)
+
+Step= 228  t= 1.15049  dt= 0.000615234 
+Nf= 0000007163  total-Nf= 0004511235  ex-frac= 5.13137  iter= 1
+work-load balance: 2.10117  max=0.0301261 avg=0.0143378 PE0=0.0301261
+particle-load balance: 1.46875
+max. nodes: 2612, filled: 0.56684
+part/sec=31224.3 | 14860.5  ia/part=885.231 (0)
+
+Step= 229  t= 1.1511  dt= 0.000615234 
+Nf= 0000002398  total-Nf= 0004513633  ex-frac= 7.07423  iter= 1
+work-load balance: 3.50859  max=0.0201931 avg=0.00575534 PE0=0.0201931
+particle-load balance: 1.46875
+max. nodes: 2612, filled: 0.56684
+part/sec=26041.1 | 7422.09  ia/part=1026.92 (0)
+
+Step= 230  t= 1.15172  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0004546401  ex-frac= 2.72632  iter= 1
+work-load balance: 1.76804  max=0.080328 avg=0.0454334 PE0=0.043201
+particle-load balance: 1.46826
+max. nodes: 2619, filled: 0.568359
+part/sec=45077 | 25495.5  ia/part=581.574 (0)
+
+Step= 231  t= 1.15233  dt= 0.000615234 
+Nf= 0000002612  total-Nf= 0004549013  ex-frac= 6.91692  iter= 1
+work-load balance: 3.49019  max=0.0216291 avg=0.00619711 PE0=0.0216291
+particle-load balance: 1.46826
+max. nodes: 2619, filled: 0.568359
+part/sec=26342.9 | 7547.7  ia/part=1015.02 (0)
+
+Step= 232  t= 1.15295  dt= 0.000615234 
+Nf= 0000007348  total-Nf= 0004556361  ex-frac= 5.16984  iter= 1
+work-load balance: 2.11337  max=0.0310428 avg=0.0146888 PE0=0.0310428
+particle-load balance: 1.46582
+max. nodes: 2605, filled: 0.565321
+part/sec=31265.3 | 14794.1  ia/part=881.202 (0)
+
+Step= 233  t= 1.15356  dt= 0.000615234 
+Nf= 0000002718  total-Nf= 0004559079  ex-frac= 6.97719  iter= 1
+work-load balance: 3.48021  max=0.0224822 avg=0.00646 PE0=0.0224822
+particle-load balance: 1.46582
+max. nodes: 2605, filled: 0.565321
+part/sec=26296.5 | 7555.99  ia/part=1010.87 (0)
+
+Step= 234  t= 1.15418  dt= 0.000615234 
+Nf= 0000011665  total-Nf= 0004570744  ex-frac= 4.51762  iter= 1
+work-load balance: 1.66144  max=0.0361829 avg=0.021778 PE0=0.0332479
+particle-load balance: 1.46973
+max. nodes: 2610, filled: 0.566406
+part/sec=33477 | 20149.4  ia/part=809.591 (0)
+
+Step= 235  t= 1.15479  dt= 0.000615234 
+Nf= 0000002931  total-Nf= 0004573675  ex-frac= 6.86319  iter= 1
+work-load balance: 3.45986  max=0.0233579 avg=0.00675111 PE0=0.0233579
+particle-load balance: 1.46973
+max. nodes: 2610, filled: 0.566406
+part/sec=27134.4 | 7842.65  ia/part=999.988 (0)
+
+Step= 236  t= 1.15541  dt= 0.000615234 
+Nf= 0000007537  total-Nf= 0004581212  ex-frac= 5.11769  iter= 1
+work-load balance: 2.1034  max=0.031496 avg=0.0149739 PE0=0.031496
+particle-load balance: 1.46973
+max. nodes: 2576, filled: 0.559028
+part/sec=31458.9 | 14956.2  ia/part=875.11 (0)
+
+Step= 237  t= 1.15603  dt= 0.000615234 
+Nf= 0000003005  total-Nf= 0004584217  ex-frac= 6.77804  iter= 1
+work-load balance: 3.44289  max=0.023746 avg=0.00689711 PE0=0.023746
+particle-load balance: 1.46973
+max. nodes: 2576, filled: 0.559028
+part/sec=27230.6 | 7909.22  ia/part=996.505 (0)
+
+Step= 238  t= 1.15664  dt= 0.000615234 
+Nf= 0000018934  total-Nf= 0004603151  ex-frac= 3.64952  iter= 1
+work-load balance: 1.60792  max=0.0513291 avg=0.0319227 PE0=0.0367579
+particle-load balance: 1.46582
+max. nodes: 2598, filled: 0.563802
+part/sec=37070 | 23054.6  ia/part=717.126 (0)
+
+Step= 239  t= 1.15726  dt= 0.000615234 
+Nf= 0000003210  total-Nf= 0004606361  ex-frac= 6.6595  iter= 1
+work-load balance: 3.40435  max=0.024797 avg=0.0072839 PE0=0.024797
+particle-load balance: 1.46582
+max. nodes: 2598, filled: 0.563802
+part/sec=27543.6 | 8090.71  ia/part=987.695 (0)
+
+Step= 240  t= 1.15787  dt= 0.000615234 
+Nf= 0000007719  total-Nf= 0004614080  ex-frac= 5.17243  iter= 1
+work-load balance: 2.08757  max=0.0318289 avg=0.0152468 PE0=0.0318289
+particle-load balance: 1.46973
+max. nodes: 2584, filled: 0.560764
+part/sec=31641.8 | 15157.2  ia/part=870.125 (0)
+
+Step= 241  t= 1.15849  dt= 0.000615234 
+Nf= 0000003275  total-Nf= 0004617355  ex-frac= 6.66382  iter= 1
+work-load balance: 3.40034  max=0.0251369 avg=0.00739248 PE0=0.0251369
+particle-load balance: 1.46973
+max. nodes: 2584, filled: 0.560764
+part/sec=27688.6 | 8142.89  ia/part=984.467 (0)
+
+Step= 242  t= 1.1591  dt= 0.000615234 
+Nf= 0000011937  total-Nf= 0004629292  ex-frac= 4.48186  iter= 1
+work-load balance: 1.64868  max=0.0368741 avg=0.0223658 PE0=0.0352192
+particle-load balance: 1.46924
+max. nodes: 2585, filled: 0.560981
+part/sec=33357.3 | 20232.7  ia/part=804.382 (0)
+
+Step= 243  t= 1.15972  dt= 0.000615234 
+Nf= 0000003465  total-Nf= 0004632757  ex-frac= 6.44791  iter= 1
+work-load balance: 3.41234  max=0.0262051 avg=0.00767951 PE0=0.0262051
+particle-load balance: 1.4668
+max. nodes: 2596, filled: 0.563368
+part/sec=28200.1 | 8264.15  ia/part=970.287 (0)
+
+Step= 244  t= 1.16033  dt= 0.000615234 
+Nf= 0000007905  total-Nf= 0004640662  ex-frac= 5.05882  iter= 1
+work-load balance: 2.10321  max=0.032563 avg=0.0154825 PE0=0.032563
+particle-load balance: 1.46436
+max. nodes: 2594, filled: 0.562934
+part/sec=31911 | 15172.5  ia/part=866.101 (0)
+
+Step= 245  t= 1.16095  dt= 0.000615234 
+Nf= 0000003514  total-Nf= 0004644176  ex-frac= 6.3967  iter= 1
+work-load balance: 3.40908  max=0.026401 avg=0.00774433 PE0=0.026401
+particle-load balance: 1.46875
+max. nodes: 2603, filled: 0.564887
+part/sec=28359.5 | 8318.8  ia/part=965.998 (0)
+
+Step= 246  t= 1.16156  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0004676944  ex-frac= 2.75177  iter= 1
+work-load balance: 1.79424  max=0.081557 avg=0.0454548 PE0=0.0451431
+particle-load balance: 1.46826
+max. nodes: 2601, filled: 0.564453
+part/sec=45055.7 | 25111.3  ia/part=580.764 (0)
+
+Step= 247  t= 1.16218  dt= 0.000615234 
+Nf= 0000003700  total-Nf= 0004680644  ex-frac= 6.36973  iter= 1
+work-load balance: 3.17426  max=0.0250552 avg=0.00789322 PE0=0.0250552
+particle-load balance: 1.46973
+max. nodes: 2589, filled: 0.561849
+part/sec=29297.3 | 9229.63  ia/part=960.472 (0)
+
+Step= 248  t= 1.16279  dt= 0.000615234 
+Nf= 0000008076  total-Nf= 0004688720  ex-frac= 5.06786  iter= 1
+work-load balance: 2.0059  max=0.031466 avg=0.0156868 PE0=0.031466
+particle-load balance: 1.46484
+max. nodes: 2596, filled: 0.563368
+part/sec=32176.8 | 16041.1  ia/part=863.042 (0)
+
+Step= 249  t= 1.16341  dt= 0.000615234 
+Nf= 0000003731  total-Nf= 0004692451  ex-frac= 6.37041  iter= 1
+work-load balance: 3.42786  max=0.0278339 avg=0.00811991 PE0=0.0278339
+particle-load balance: 1.46973
+max. nodes: 2596, filled: 0.563368
+part/sec=28718 | 8377.81  ia/part=958.449 (0)
+
+Step= 250  t= 1.16402  dt= 0.000615234 
+Nf= 0000012183  total-Nf= 0004704634  ex-frac= 4.46319  iter= 1
+work-load balance: 1.63046  max=0.0370619 avg=0.022731 PE0=0.0370619
+particle-load balance: 1.46582
+max. nodes: 2605, filled: 0.565321
+part/sec=33497.7 | 20545  ia/part=799.961 (0)
+
+Step= 251  t= 1.16464  dt= 0.000615234 
+Nf= 0000003902  total-Nf= 0004708536  ex-frac= 6.29549  iter= 1
+work-load balance: 3.39145  max=0.0286307 avg=0.00844204 PE0=0.0286307
+particle-load balance: 1.46973
+max. nodes: 2616, filled: 0.567708
+part/sec=28888.1 | 8517.94  ia/part=952.476 (0)
+
+Step= 252  t= 1.16525  dt= 0.000615234 
+Nf= 0000008224  total-Nf= 0004716760  ex-frac= 5.00426  iter= 1
+work-load balance: 2.16057  max=0.0348887 avg=0.0161479 PE0=0.0348887
+particle-load balance: 1.46973
+max. nodes: 2609, filled: 0.566189
+part/sec=31830.7 | 14732.5  ia/part=858.979 (0)
+
+Step= 253  t= 1.16587  dt= 0.000615234 
+Nf= 0000003933  total-Nf= 0004720693  ex-frac= 6.26824  iter= 1
+work-load balance: 3.39303  max=0.0287468 avg=0.00847232 PE0=0.0287468
+particle-load balance: 1.46826
+max. nodes: 2584, filled: 0.560764
+part/sec=29013.6 | 8550.94  ia/part=951.231 (0)
+
+Step= 254  t= 1.16648  dt= 0.000615234 
+Nf= 0000019112  total-Nf= 0004739805  ex-frac= 3.61945  iter= 1
+work-load balance: 1.6973  max=0.0549369 avg=0.0323672 PE0=0.041007
+particle-load balance: 1.46973
+max. nodes: 2599, filled: 0.564019
+part/sec=36904.6 | 21743.1  ia/part=714.278 (0)
+
+Step= 255  t= 1.1671  dt= 0.000615234 
+Nf= 0000004127  total-Nf= 0004743932  ex-frac= 6.14151  iter= 1
+work-load balance: 3.33752  max=0.0295761 avg=0.00886169 PE0=0.0295761
+particle-load balance: 1.46777
+max. nodes: 2596, filled: 0.563368
+part/sec=29107 | 8721.16  ia/part=946.458 (0)
+
+Step= 256  t= 1.16771  dt= 0.000615234 
+Nf= 0000008403  total-Nf= 0004752335  ex-frac= 4.99607  iter= 1
+work-load balance: 2.17116  max=0.0354509 avg=0.0163281 PE0=0.0354509
+particle-load balance: 1.46875
+max. nodes: 2585, filled: 0.560981
+part/sec=32164.6 | 14814.5  ia/part=854.947 (0)
+
+Step= 257  t= 1.16833  dt= 0.000615234 
+Nf= 0000004164  total-Nf= 0004756499  ex-frac= 6.0598  iter= 1
+work-load balance: 3.13083  max=0.0270429 avg=0.00863759 PE0=0.0270429
+particle-load balance: 1.46973
+max. nodes: 2589, filled: 0.561849
+part/sec=30129.9 | 9623.61  ia/part=942.196 (0)
+
+Step= 258  t= 1.16895  dt= 0.000615234 
+Nf= 0000012429  total-Nf= 0004768928  ex-frac= 4.30147  iter= 1
+work-load balance: 1.85173  max=0.0419118 avg=0.0226338 PE0=0.035399
+particle-load balance: 1.46924
+max. nodes: 2582, filled: 0.56033
+part/sec=34320.9 | 18534.4  ia/part=795.974 (0)
+
+Step= 259  t= 1.16956  dt= 0.000615234 
+Nf= 0000004329  total-Nf= 0004773257  ex-frac= 6.0924  iter= 1
+work-load balance: 3.14209  max=0.0281851 avg=0.00897017 PE0=0.0281851
+particle-load balance: 1.46777
+max. nodes: 2576, filled: 0.559028
+part/sec=30162.5 | 9599.48  ia/part=939.515 (0)
+
+Step= 260  t= 1.17018  dt= 0.000615234 
+Nf= 0000008561  total-Nf= 0004781818  ex-frac= 5.01413  iter= 1
+work-load balance: 2.09625  max=0.0345411 avg=0.0164776 PE0=0.0345411
+particle-load balance: 1.46924
+max. nodes: 2565, filled: 0.556641
+part/sec=32472.1 | 15490.6  ia/part=852.337 (0)
+
+Step= 261  t= 1.17079  dt= 0.000615234 
+Nf= 0000004358  total-Nf= 0004786176  ex-frac= 6.10486  iter= 1
+work-load balance: 3.12162  max=0.028147 avg=0.00901678 PE0=0.028147
+particle-load balance: 1.46973
+max. nodes: 2567, filled: 0.557075
+part/sec=30207.6 | 9676.88  ia/part=937.355 (0)
+
+Step= 262  t= 1.17141  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0004818944  ex-frac= 2.76663  iter= 1
+work-load balance: 1.79578  max=0.0821729 avg=0.0457588 PE0=0.0445571
+particle-load balance: 1.46777
+max. nodes: 2563, filled: 0.556207
+part/sec=44756.4 | 24923.1  ia/part=580.071 (0)
+
+Step= 263  t= 1.17202  dt= 0.000615234 
+Nf= 0000004531  total-Nf= 0004823475  ex-frac= 6.0938  iter= 1
+work-load balance: 3.09732  max=0.0287392 avg=0.00927873 PE0=0.0287392
+particle-load balance: 1.46777
+max. nodes: 2562, filled: 0.55599
+part/sec=30520.1 | 9853.7  ia/part=933.08 (0)
+
+Step= 264  t= 1.17264  dt= 0.000615234 
+Nf= 0000008729  total-Nf= 0004832204  ex-frac= 5.06301  iter= 1
+work-load balance: 2.08793  max=0.0349529 avg=0.0167405 PE0=0.0349529
+particle-load balance: 1.46973
+max. nodes: 2565, filled: 0.556641
+part/sec=32589.4 | 15608.5  ia/part=850.218 (0)
+
+Step= 265  t= 1.17325  dt= 0.000615234 
+Nf= 0000004555  total-Nf= 0004836759  ex-frac= 6.05005  iter= 1
+work-load balance: 3.13009  max=0.0291519 avg=0.00931343 PE0=0.0291519
+particle-load balance: 1.46924
+max. nodes: 2577, filled: 0.559245
+part/sec=30567.4 | 9765.65  ia/part=931.63 (0)
+
+Step= 266  t= 1.17387  dt= 0.000615234 
+Nf= 0000012648  total-Nf= 0004849407  ex-frac= 4.50095  iter= 1
+work-load balance: 1.61561  max=0.0378749 avg=0.0234431 PE0=0.0378749
+particle-load balance: 1.46826
+max. nodes: 2557, filled: 0.554905
+part/sec=33719.9 | 20871.3  ia/part=792.231 (0)
+
+Step= 267  t= 1.17448  dt= 0.000615234 
+Nf= 0000004744  total-Nf= 0004854151  ex-frac= 6.13322  iter= 1
+work-load balance: 3.06302  max=0.0302951 avg=0.00989062 PE0=0.0302951
+particle-load balance: 1.46826
+max. nodes: 2542, filled: 0.551649
+part/sec=29977.9 | 9787.05  ia/part=927.251 (0)
+
+Step= 268  t= 1.1751  dt= 0.000615234 
+Nf= 0000008886  total-Nf= 0004863037  ex-frac= 5.08395  iter= 1
+work-load balance: 2.08276  max=0.0364749 avg=0.0175128 PE0=0.0364749
+particle-load balance: 1.46777
+max. nodes: 2531, filled: 0.549262
+part/sec=31712.6 | 15226.2  ia/part=846.47 (0)
+
+Step= 269  t= 1.17571  dt= 0.000615234 
+Nf= 0000004791  total-Nf= 0004867828  ex-frac= 6.11626  iter= 1
+work-load balance: 3.08975  max=0.0302367 avg=0.00978614 PE0=0.0302367
+particle-load balance: 1.46826
+max. nodes: 2547, filled: 0.552734
+part/sec=30598.1 | 9903.11  ia/part=924.856 (0)
+
+Step= 270  t= 1.17633  dt= 0.000615234 
+Nf= 0000019290  total-Nf= 0004887118  ex-frac= 3.6578  iter= 1
+work-load balance: 1.74224  max=0.0564358 avg=0.0323926 PE0=0.0402458
+particle-load balance: 1.46973
+max. nodes: 2535, filled: 0.55013
+part/sec=37219.1 | 21362.8  ia/part=711.796 (0)
+
+Step= 271  t= 1.17694  dt= 0.000615234 
+Nf= 0000004945  total-Nf= 0004892063  ex-frac= 6.29626  iter= 1
+work-load balance: 3.04881  max=0.0313239 avg=0.0102741 PE0=0.0313239
+particle-load balance: 1.46436
+max. nodes: 2537, filled: 0.550564
+part/sec=30081.6 | 9866.66  ia/part=922.576 (0)
+
+Step= 272  t= 1.17756  dt= 0.000615234 
+Nf= 0000009043  total-Nf= 0004901106  ex-frac= 5.23167  iter= 1
+work-load balance: 2.13916  max=0.0377829 avg=0.0176625 PE0=0.0377829
+particle-load balance: 1.46924
+max. nodes: 2545, filled: 0.5523
+part/sec=31999.3 | 14958.8  ia/part=842.01 (0)
+
+Step= 273  t= 1.17817  dt= 0.000615234 
+Nf= 0000004950  total-Nf= 0004906056  ex-frac= 6.06121  iter= 1
+work-load balance: 2.85421  max=0.0288591 avg=0.0101111 PE0=0.0288591
+particle-load balance: 1.46973
+max. nodes: 2531, filled: 0.549262
+part/sec=30597.6 | 10720.2  ia/part=921.361 (0)
+
+Step= 274  t= 1.17879  dt= 0.000615234 
+Nf= 0000012878  total-Nf= 0004918934  ex-frac= 4.4583  iter= 1
+work-load balance: 1.68999  max=0.0397329 avg=0.0235107 PE0=0.0370469
+particle-load balance: 1.46924
+max. nodes: 2548, filled: 0.552951
+part/sec=34234.4 | 20257.1  ia/part=789.159 (0)
+
+Step= 275  t= 1.1794  dt= 0.000615234 
+Nf= 0000005095  total-Nf= 0004924029  ex-frac= 6.09872  iter= 1
+work-load balance: 3.04647  max=0.0318921 avg=0.0104685 PE0=0.0318921
+particle-load balance: 1.46826
+max. nodes: 2538, filled: 0.550781
+part/sec=30418.5 | 9984.85  ia/part=917.981 (0)
+
+Step= 276  t= 1.18002  dt= 0.000615234 
+Nf= 0000009204  total-Nf= 0004933233  ex-frac= 5.2249  iter= 1
+work-load balance: 2.11982  max=0.0380499 avg=0.0179496 PE0=0.0380499
+particle-load balance: 1.46826
+max. nodes: 2552, filled: 0.553819
+part/sec=32048.1 | 15118.3  ia/part=840.804 (0)
+
+Step= 277  t= 1.18063  dt= 0.000615234 
+Nf= 0000005115  total-Nf= 0004938348  ex-frac= 6.22991  iter= 1
+work-load balance: 2.80268  max=0.0301931 avg=0.0107729 PE0=0.0301931
+particle-load balance: 1.46924
+max. nodes: 2553, filled: 0.554036
+part/sec=29675 | 10588.1  ia/part=917.08 (0)
+
+Step= 278  t= 1.18125  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0004971116  ex-frac= 2.89758  iter= 1
+work-load balance: 1.78448  max=0.0820949 avg=0.0460049 PE0=0.0471909
+particle-load balance: 1.46973
+max. nodes: 2544, filled: 0.552083
+part/sec=44517 | 24946.7  ia/part=580.138 (0)
+
+Step= 279  t= 1.18187  dt= 0.000615234 
+Nf= 0000005285  total-Nf= 0004976401  ex-frac= 6.40284  iter= 1
+work-load balance: 2.98254  max=0.0334849 avg=0.011227 PE0=0.0334849
+particle-load balance: 1.46973
+max. nodes: 2539, filled: 0.550998
+part/sec=29421.3 | 9864.51  ia/part=916.107 (0)
+
+Step= 280  t= 1.18248  dt= 0.000615234 
+Nf= 0000009347  total-Nf= 0004985748  ex-frac= 5.38355  iter= 1
+work-load balance: 2.1333  max=0.0387881 avg=0.0181822 PE0=0.0387881
+particle-load balance: 1.4668
+max. nodes: 2537, filled: 0.550564
+part/sec=32129.6 | 15061  ia/part=839.64 (0)
+
+Step= 281  t= 1.1831  dt= 0.000615234 
+Nf= 0000005291  total-Nf= 0004991039  ex-frac= 6.43772  iter= 1
+work-load balance: 2.77562  max=0.030431 avg=0.0109637 PE0=0.030431
+particle-load balance: 1.46973
+max. nodes: 2540, filled: 0.551215
+part/sec=30162.1 | 10866.8  ia/part=916.615 (0)
+
+Step= 282  t= 1.18371  dt= 0.000615234 
+Nf= 0000013098  total-Nf= 0005004137  ex-frac= 4.68606  iter= 1
+work-load balance: 1.63043  max=0.039257 avg=0.0240778 PE0=0.038245
+particle-load balance: 1.46289
+max. nodes: 2530, filled: 0.549045
+part/sec=33999.2 | 20852.9  ia/part=787.341 (0)
+
+Step= 283  t= 1.18433  dt= 0.000615234 
+Nf= 0000005456  total-Nf= 0005009593  ex-frac= 6.20308  iter= 1
+work-load balance: 2.7663  max=0.0318539 avg=0.011515 PE0=0.0318539
+particle-load balance: 1.46875
+max. nodes: 2522, filled: 0.547309
+part/sec=29613.6 | 10705.1  ia/part=913.944 (0)
+
+Step= 284  t= 1.18494  dt= 0.000615234 
+Nf= 0000009477  total-Nf= 0005019070  ex-frac= 5.31624  iter= 1
+work-load balance: 2.03846  max=0.037214 avg=0.0182559 PE0=0.037214
+particle-load balance: 1.46875
+max. nodes: 2531, filled: 0.549262
+part/sec=32444.9 | 15916.4  ia/part=837.39 (0)
+
+Step= 285  t= 1.18556  dt= 0.000615234 
+Nf= 0000005466  total-Nf= 0005024536  ex-frac= 6.2157  iter= 1
+work-load balance: 2.79072  max=0.0312979 avg=0.011215 PE0=0.0312979
+particle-load balance: 1.46875
+max. nodes: 2515, filled: 0.54579
+part/sec=30461.4 | 10915.3  ia/part=912.763 (0)
+
+Step= 286  t= 1.18617  dt= 0.000615234 
+Nf= 0000019483  total-Nf= 0005044019  ex-frac= 3.82872  iter= 1
+work-load balance: 1.74813  max=0.0575769 avg=0.0329363 PE0=0.0400712
+particle-load balance: 1.46875
+max. nodes: 2534, filled: 0.549913
+part/sec=36971 | 21148.9  ia/part=711.4 (0)
+
+Step= 287  t= 1.18679  dt= 0.000615234 
+Nf= 0000005611  total-Nf= 0005049630  ex-frac= 5.98129  iter= 1
+work-load balance: 2.81111  max=0.032146 avg=0.0114353 PE0=0.032146
+particle-load balance: 1.46924
+max. nodes: 2544, filled: 0.552083
+part/sec=30667 | 10909.2  ia/part=910.012 (0)
+
+Step= 288  t= 1.1874  dt= 0.000615234 
+Nf= 0000009625  total-Nf= 0005059255  ex-frac= 5.17049  iter= 1
+work-load balance: 2.07208  max=0.0380328 avg=0.0183549 PE0=0.0380328
+particle-load balance: 1.46875
+max. nodes: 2534, filled: 0.549913
+part/sec=32774 | 15817  ia/part=836.147 (0)
+
+Step= 289  t= 1.18802  dt= 0.000615234 
+Nf= 0000005615  total-Nf= 0005064870  ex-frac= 6.31327  iter= 1
+work-load balance: 2.80364  max=0.0321429 avg=0.0114647 PE0=0.0321429
+particle-load balance: 1.46973
+max. nodes: 2526, filled: 0.548177
+part/sec=30610.2 | 10918  ia/part=910.288 (0)
+
+Step= 290  t= 1.18863  dt= 0.000615234 
+Nf= 0000013340  total-Nf= 0005078210  ex-frac= 4.7066  iter= 1
+work-load balance: 1.81918  max=0.0441508 avg=0.0242696 PE0=0.0392118
+particle-load balance: 1.46777
+max. nodes: 2533, filled: 0.549696
+part/sec=34353.7 | 18884.1  ia/part=786.097 (0)
+
+Step= 291  t= 1.18925  dt= 0.000615234 
+Nf= 0000005761  total-Nf= 0005083971  ex-frac= 6.25273  iter= 1
+work-load balance: 2.77967  max=0.032656 avg=0.0117481 PE0=0.032656
+particle-load balance: 1.4668
+max. nodes: 2555, filled: 0.55447
+part/sec=30648.5 | 11025.9  ia/part=908.819 (0)
+
+Step= 292  t= 1.18986  dt= 0.000615234 
+Nf= 0000009748  total-Nf= 0005093719  ex-frac= 5.48769  iter= 1
+work-load balance: 2.04084  max=0.03827 avg=0.0187521 PE0=0.03827
+particle-load balance: 1.46973
+max. nodes: 2522, filled: 0.547309
+part/sec=32489.7 | 15919.8  ia/part=835.17 (0)
+
+Step= 293  t= 1.19048  dt= 0.000615234 
+Nf= 0000005757  total-Nf= 0005099476  ex-frac= 6.25013  iter= 1
+work-load balance: 2.78309  max=0.0326443 avg=0.0117295 PE0=0.0326443
+particle-load balance: 1.46533
+max. nodes: 2544, filled: 0.552083
+part/sec=30675.8 | 11022.2  ia/part=907.989 (0)
+
+Step= 294  t= 1.19109  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0005132244  ex-frac= 3.02136  iter= 1
+work-load balance: 1.8144  max=0.0833838 avg=0.0459566 PE0=0.0464492
+particle-load balance: 1.46973
+max. nodes: 2531, filled: 0.549262
+part/sec=44563.8 | 24561.1  ia/part=581.805 (0)
+
+Step= 295  t= 1.19171  dt= 0.000615234 
+Nf= 0000005900  total-Nf= 0005138144  ex-frac= 6.37034  iter= 1
+work-load balance: 2.74444  max=0.03315 avg=0.012079 PE0=0.03315
+particle-load balance: 1.46973
+max. nodes: 2517, filled: 0.546224
+part/sec=30528.3 | 11123.7  ia/part=906.126 (0)
+
+Step= 296  t= 1.19232  dt= 0.000615234 
+Nf= 0000009868  total-Nf= 0005148012  ex-frac= 5.44254  iter= 1
+work-load balance: 2.06949  max=0.0391781 avg=0.0189313 PE0=0.0391781
+particle-load balance: 1.46875
+max. nodes: 2518, filled: 0.546441
+part/sec=32578.3 | 15742.2  ia/part=833.837 (0)
+
+Step= 297  t= 1.19294  dt= 0.000615234 
+Nf= 0000005877  total-Nf= 0005153889  ex-frac= 6.35103  iter= 1
+work-load balance: 2.77064  max=0.033458 avg=0.0120759 PE0=0.033458
+particle-load balance: 1.46924
+max. nodes: 2548, filled: 0.552951
+part/sec=30417 | 10978.3  ia/part=905.461 (0)
+
+Step= 298  t= 1.19355  dt= 0.000615234 
+Nf= 0000013550  total-Nf= 0005167439  ex-frac= 4.77114  iter= 1
+work-load balance: 1.9165  max=0.0474689 avg=0.0247685 PE0=0.0406022
+particle-load balance: 1.46973
+max. nodes: 2547, filled: 0.552734
+part/sec=34191.6 | 17840.6  ia/part=783.61 (0)
+
+Step= 299  t= 1.19417  dt= 0.000615234 
+Nf= 0000006011  total-Nf= 0005173450  ex-frac= 6.36217  iter= 1
+work-load balance: 2.72466  max=0.0342138 avg=0.0125571 PE0=0.0342138
+particle-load balance: 1.4668
+max. nodes: 2576, filled: 0.559028
+part/sec=29918.4 | 10980.6  ia/part=904.261 (0)
+
+Step= 300  t= 1.19479  dt= 0.000615234 
+Nf= 0000010014  total-Nf= 0005183464  ex-frac= 5.40583  iter= 1
+work-load balance: 2.03273  max=0.0393989 avg=0.0193823 PE0=0.0393989
+particle-load balance: 1.46924
+max. nodes: 2570, filled: 0.557726
+part/sec=32291.1 | 15885.6  ia/part=832.542 (0)
+
+Step= 301  t= 1.1954  dt= 0.000615234 
+Nf= 0000005989  total-Nf= 0005189453  ex-frac= 6.46018  iter= 1
+work-load balance: 2.72182  max=0.0336542 avg=0.0123646 PE0=0.0336542
+particle-load balance: 1.46533
+max. nodes: 2543, filled: 0.551866
+part/sec=30273 | 11122.3  ia/part=903.98 (0)
+
+Step= 302  t= 1.19602  dt= 0.000615234 
+Nf= 0000019644  total-Nf= 0005209097  ex-frac= 4.03502  iter= 1
+work-load balance: 1.7794  max=0.0586059 avg=0.0329358 PE0=0.0406733
+particle-load balance: 1.46777
+max. nodes: 2520, filled: 0.546875
+part/sec=37277.1 | 20949.3  ia/part=711.939 (0)
+
+Step= 303  t= 1.19663  dt= 0.000615234 
+Nf= 0000006122  total-Nf= 0005215219  ex-frac= 6.50719  iter= 1
+work-load balance: 2.68691  max=0.0340149 avg=0.0126595 PE0=0.0340149
+particle-load balance: 1.46826
+max. nodes: 2534, filled: 0.549913
+part/sec=30224.4 | 11248.7  ia/part=902.989 (0)
+
+Step= 304  t= 1.19725  dt= 0.000615234 
+Nf= 0000010149  total-Nf= 0005225368  ex-frac= 5.57927  iter= 1
+work-load balance: 2.02148  max=0.039501 avg=0.0195406 PE0=0.039501
+particle-load balance: 1.46924
+max. nodes: 2527, filled: 0.548394
+part/sec=32461.2 | 16058.2  ia/part=831.556 (0)
+
+Step= 305  t= 1.19786  dt= 0.000615234 
+Nf= 0000006101  total-Nf= 0005231469  ex-frac= 6.57335  iter= 1
+work-load balance: 2.66048  max=0.0336108 avg=0.0126334 PE0=0.0336108
+particle-load balance: 1.46875
+max. nodes: 2545, filled: 0.5523
+part/sec=30182.9 | 11344.9  ia/part=903.079 (0)
+
+Step= 306  t= 1.19848  dt= 0.000615234 
+Nf= 0000013743  total-Nf= 0005245212  ex-frac= 4.78767  iter= 1
+work-load balance: 1.87072  max=0.0474591 avg=0.0253695 PE0=0.0435498
+particle-load balance: 1.46875
+max. nodes: 2560, filled: 0.555556
+part/sec=33857.1 | 18098.5  ia/part=782.756 (0)
+
+Step= 307  t= 1.19909  dt= 0.000615234 
+Nf= 0000006205  total-Nf= 0005251417  ex-frac= 6.40177  iter= 1
+work-load balance: 2.63267  max=0.0341439 avg=0.0129693 PE0=0.0341439
+particle-load balance: 1.46924
+max. nodes: 2561, filled: 0.555773
+part/sec=29902.3 | 11358.2  ia/part=900.596 (0)
+
+Step= 308  t= 1.19971  dt= 0.000615234 
+Nf= 0000010278  total-Nf= 0005261695  ex-frac= 5.50341  iter= 1
+work-load balance: 2.12434  max=0.0424838 avg=0.0199986 PE0=0.0424838
+particle-load balance: 1.46973
+max. nodes: 2572, filled: 0.55816
+part/sec=32121 | 15120.5  ia/part=828.496 (0)
+
+Step= 309  t= 1.20032  dt= 0.000615234 
+Nf= 0000006213  total-Nf= 0005267908  ex-frac= 6.22308  iter= 1
+work-load balance: 2.62716  max=0.0347331 avg=0.0132208 PE0=0.0347331
+particle-load balance: 1.46826
+max. nodes: 2570, filled: 0.557726
+part/sec=29371.4 | 11179.9  ia/part=897.944 (0)
+
+Step= 310  t= 1.20094  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0005300676  ex-frac= 2.939  iter= 1
+work-load balance: 1.64736  max=0.0749569 avg=0.0455012 PE0=0.0473378
+particle-load balance: 1.46973
+max. nodes: 2569, filled: 0.557509
+part/sec=45009.8 | 27322.4  ia/part=582.38 (0)
+
+Step= 311  t= 1.20155  dt= 0.000615234 
+Nf= 0000006322  total-Nf= 0005306998  ex-frac= 6.2621  iter= 1
+work-load balance: 2.63385  max=0.0347712 avg=0.0132017 PE0=0.0347712
+particle-load balance: 1.46826
+max. nodes: 2567, filled: 0.557075
+part/sec=29930 | 11363.6  ia/part=895.693 (0)
+
+Step= 312  t= 1.20217  dt= 0.000615234 
+Nf= 0000010405  total-Nf= 0005317403  ex-frac= 5.23566  iter= 1
+work-load balance: 2.0339  max=0.040678 avg=0.02 PE0=0.040678
+particle-load balance: 1.46924
+max. nodes: 2560, filled: 0.555556
+part/sec=32515.6 | 15986.8  ia/part=824.921 (0)
+
+Step= 313  t= 1.20278  dt= 0.000615234 
+Nf= 0000006312  total-Nf= 0005323715  ex-frac= 6.14417  iter= 1
+work-load balance: 2.65232  max=0.0346448 avg=0.0130621 PE0=0.0346448
+particle-load balance: 1.46924
+max. nodes: 2553, filled: 0.554036
+part/sec=30201.9 | 11387  ia/part=894.532 (0)
+
+Step= 314  t= 1.2034  dt= 0.000615234 
+Nf= 0000013926  total-Nf= 0005337641  ex-frac= 4.61238  iter= 1
+work-load balance: 1.84706  max=0.047251 avg=0.0255817 PE0=0.0423269
+particle-load balance: 1.46973
+max. nodes: 2567, filled: 0.557075
+part/sec=34023.3 | 18420.3  ia/part=779.406 (0)
+
+Step= 315  t= 1.20401  dt= 0.000615234 
+Nf= 0000006419  total-Nf= 0005344060  ex-frac= 6.09597  iter= 1
+work-load balance: 2.65051  max=0.0351989 avg=0.01328 PE0=0.0351989
+particle-load balance: 1.46924
+max. nodes: 2557, filled: 0.554905
+part/sec=30209.8 | 11397.7  ia/part=891.883 (0)
+
+Step= 316  t= 1.20463  dt= 0.000615234 
+Nf= 0000010527  total-Nf= 0005354587  ex-frac= 5.13242  iter= 1
+work-load balance: 2.03442  max=0.0409272 avg=0.0201173 PE0=0.0409272
+particle-load balance: 1.46973
+max. nodes: 2568, filled: 0.557292
+part/sec=32705 | 16075.8  ia/part=820.782 (0)
+
+Step= 317  t= 1.20524  dt= 0.000615234 
+Nf= 0000006402  total-Nf= 0005360989  ex-frac= 6.04249  iter= 1
+work-load balance: 2.61954  max=0.0349379 avg=0.0133374 PE0=0.0349379
+particle-load balance: 1.46924
+max. nodes: 2585, filled: 0.560981
+part/sec=30000.3 | 11452.5  ia/part=889.011 (0)
+
+Step= 318  t= 1.20586  dt= 0.000615234 
+Nf= 0000019800  total-Nf= 0005380789  ex-frac= 3.89283  iter= 1
+work-load balance: 1.72442  max=0.058495 avg=0.0339216 PE0=0.043679
+particle-load balance: 1.46973
+max. nodes: 2574, filled: 0.558594
+part/sec=36481.1 | 21155.6  ia/part=708.998 (0)
+
+Step= 319  t= 1.20647  dt= 0.000615234 
+Nf= 0000006523  total-Nf= 0005387312  ex-frac= 6.11544  iter= 1
+work-load balance: 2.6317  max=0.035455 avg=0.0134723 PE0=0.035455
+particle-load balance: 1.46826
+max. nodes: 2586, filled: 0.561198
+part/sec=30261.2 | 11498.7  ia/part=886.288 (0)
+
+Step= 320  t= 1.20709  dt= 0.000615234 
+Nf= 0000010651  total-Nf= 0005397963  ex-frac= 5.29049  iter= 1
+work-load balance: 2.01365  max=0.0410619 avg=0.0203917 PE0=0.0410619
+particle-load balance: 1.46924
+max. nodes: 2569, filled: 0.557509
+part/sec=32645 | 16211.8  ia/part=817.286 (0)
+
+Step= 321  t= 1.20771  dt= 0.000615234 
+Nf= 0000006490  total-Nf= 0005404453  ex-frac= 5.96949  iter= 1
+work-load balance: 2.63342  max=0.035038 avg=0.0133051 PE0=0.035038
+particle-load balance: 1.46924
+max. nodes: 2599, filled: 0.564019
+part/sec=30486.4 | 11576.7  ia/part=884.104 (0)
+
+Step= 322  t= 1.20832  dt= 0.000615234 
+Nf= 0000014097  total-Nf= 0005418550  ex-frac= 4.54707  iter= 1
+work-load balance: 1.79351  max=0.045871 avg=0.0255761 PE0=0.0423851
+particle-load balance: 1.46973
+max. nodes: 2616, filled: 0.567708
+part/sec=34448.6 | 19207.4  ia/part=773.948 (0)
+
+Step= 323  t= 1.20894  dt= 0.000615234 
+Nf= 0000006619  total-Nf= 0005425169  ex-frac= 5.94047  iter= 1
+work-load balance: 2.57016  max=0.0355332 avg=0.0138253 PE0=0.0355332
+particle-load balance: 1.46924
+max. nodes: 2608, filled: 0.565972
+part/sec=29922.6 | 11642.3  ia/part=880.925 (0)
+
+Step= 324  t= 1.20955  dt= 0.000615234 
+Nf= 0000010767  total-Nf= 0005435936  ex-frac= 5.29572  iter= 1
+work-load balance: 2.00321  max=0.0413029 avg=0.0206183 PE0=0.0413029
+particle-load balance: 1.46924
+max. nodes: 2607, filled: 0.565755
+part/sec=32637.8 | 16292.7  ia/part=814.185 (0)
+
+Step= 325  t= 1.21017  dt= 0.000615234 
+Nf= 0000006574  total-Nf= 0005442510  ex-frac= 5.83952  iter= 1
+work-load balance: 2.55108  max=0.0339971 avg=0.0133265 PE0=0.0339971
+particle-load balance: 1.46826
+max. nodes: 2606, filled: 0.565538
+part/sec=30831.4 | 12085.6  ia/part=874.482 (0)
+
+Step= 326  t= 1.21078  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0005475278  ex-frac= 2.90649  iter= 1
+work-load balance: 1.65082  max=0.0748708 avg=0.0453537 PE0=0.048151
+particle-load balance: 1.46777
+max. nodes: 2626, filled: 0.569878
+part/sec=45156.2 | 27353.8  ia/part=580.562 (0)
+
+Step= 327  t= 1.2114  dt= 0.000615234 
+Nf= 0000006707  total-Nf= 0005481985  ex-frac= 5.8342  iter= 1
+work-load balance: 2.5717  max=0.034992 avg=0.0136066 PE0=0.034992
+particle-load balance: 1.46973
+max. nodes: 2608, filled: 0.565972
+part/sec=30807.7 | 11979.5  ia/part=876.324 (0)
+
+Step= 328  t= 1.21201  dt= 0.000615234 
+Nf= 0000010872  total-Nf= 0005492857  ex-frac= 5.06917  iter= 1
+work-load balance: 2.00746  max=0.0413151 avg=0.0205807 PE0=0.0413151
+particle-load balance: 1.46826
+max. nodes: 2612, filled: 0.56684
+part/sec=33016.3 | 16446.8  ia/part=810.594 (0)
+
+Step= 329  t= 1.21263  dt= 0.000615234 
+Nf= 0000006570  total-Nf= 0005499427  ex-frac= 5.81918  iter= 1
+work-load balance: 2.57474  max=0.0340269 avg=0.0132156 PE0=0.0340269
+particle-load balance: 1.46973
+max. nodes: 2607, filled: 0.565755
+part/sec=31071.2 | 12067.7  ia/part=865.858 (0)
+
+Step= 330  t= 1.21324  dt= 0.000615234 
+Nf= 0000014251  total-Nf= 0005513678  ex-frac= 4.50151  iter= 1
+work-load balance: 1.76492  max=0.0460641 avg=0.0260998 PE0=0.0428669
+particle-load balance: 1.46973
+max. nodes: 2602, filled: 0.56467
+part/sec=34126.3 | 19335.8  ia/part=768.681 (0)
+
+Step= 331  t= 1.21386  dt= 0.000615234 
+Nf= 0000006764  total-Nf= 0005520442  ex-frac= 5.83294  iter= 1
+work-load balance: 2.59245  max=0.0355139 avg=0.013699 PE0=0.0355139
+particle-load balance: 1.46777
+max. nodes: 2607, filled: 0.565755
+part/sec=30860 | 11903.8  ia/part=871.748 (0)
+
+Step= 332  t= 1.21447  dt= 0.000615234 
+Nf= 0000010970  total-Nf= 0005531412  ex-frac= 4.966  iter= 1
+work-load balance: 2.03857  max=0.0421588 avg=0.0206805 PE0=0.0421588
+particle-load balance: 1.46875
+max. nodes: 2621, filled: 0.568793
+part/sec=33153.1 | 16262.9  ia/part=808.185 (0)
+
+Step= 333  t= 1.21509  dt= 0.000615234 
+Nf= 0000006576  total-Nf= 0005537988  ex-frac= 5.54532  iter= 1
+work-load balance: 2.56031  max=0.0334752 avg=0.0130746 PE0=0.0334752
+particle-load balance: 1.46973
+max. nodes: 2628, filled: 0.570312
+part/sec=31434.9 | 12277.8  ia/part=857.83 (0)
+
+Step= 334  t= 1.2157  dt= 0.000615234 
+Nf= 0000019953  total-Nf= 0005557941  ex-frac= 3.78424  iter= 1
+work-load balance: 1.69336  max=0.0561209 avg=0.0331417 PE0=0.0435429
+particle-load balance: 1.46973
+max. nodes: 2630, filled: 0.570747
+part/sec=37628.1 | 22221  ia/part=705.015 (0)
+
+Step= 335  t= 1.21601  dt= 0.000307617 
+Nf= 0000000001  total-Nf= 0005557942  ex-frac= 9  iter= 1
+work-load balance: 2.1427  max=2.90871e-05 avg=1.3575e-05 PE0=1.19209e-05
+particle-load balance: 1.46973
+max. nodes: 2630, filled: 0.570747
+part/sec=4604.07 | 2148.72  ia/part=1449 (0)
+
+Step= 336  t= 1.21632  dt= 0.000307617 
+Nf= 0000006808  total-Nf= 0005564750  ex-frac= 5.66613  iter= 1
+work-load balance: 2.53988  max=0.0346491 avg=0.0136421 PE0=0.0346491
+particle-load balance: 1.46777
+max. nodes: 2644, filled: 0.573785
+part/sec=31190.3 | 12280.2  ia/part=865.783 (0)
+
+Step= 337  t= 1.21663  dt= 0.000307617 
+Nf= 0000000001  total-Nf= 0005564751  ex-frac= 9  iter= 1
+work-load balance: 2.0708  max=2.7895e-05 avg=1.34706e-05 PE0=1.19209e-05
+particle-load balance: 1.46777
+max. nodes: 2644, filled: 0.573785
+part/sec=4639.72 | 2240.55  ia/part=1427 (0)
+
+Step= 338  t= 1.21693  dt= 0.000307617 
+Nf= 0000011090  total-Nf= 0005575841  ex-frac= 4.97719  iter= 1
+work-load balance: 1.99803  max=0.0416481 avg=0.0208447 PE0=0.0416481
+particle-load balance: 1.46729
+max. nodes: 2642, filled: 0.573351
+part/sec=33251.9 | 16642.4  ia/part=804.996 (0)
+
+Step= 339  t= 1.21755  dt= 0.000615234 
+Nf= 0000006555  total-Nf= 0005582396  ex-frac= 5.54539  iter= 1
+work-load balance: 2.50372  max=0.0322108 avg=0.0128652 PE0=0.0322108
+particle-load balance: 1.46924
+max. nodes: 2634, filled: 0.571615
+part/sec=31844.6 | 12718.9  ia/part=847.819 (0)
+
+Step= 340  t= 1.21816  dt= 0.000615234 
+Nf= 0000014441  total-Nf= 0005596837  ex-frac= 4.43764  iter= 1
+work-load balance: 1.74185  max=0.0450461 avg=0.0258611 PE0=0.0429289
+particle-load balance: 1.46826
+max. nodes: 2620, filled: 0.568576
+part/sec=34900.4 | 20036.4  ia/part=765.342 (0)
+
+Step= 341  t= 1.21847  dt= 0.000307617 
+Nf= 0000000003  total-Nf= 0005596840  ex-frac= 8  iter= 1
+work-load balance: 3.1697  max=6.48499e-05 avg=2.04593e-05 PE0=1.69277e-05
+particle-load balance: 1.46826
+max. nodes: 2620, filled: 0.568576
+part/sec=9164.54 | 2891.29  ia/part=1442 (0)
+
+Step= 342  t= 1.21878  dt= 0.000307617 
+Nf= 0000006848  total-Nf= 0005603688  ex-frac= 5.62967  iter= 1
+work-load balance: 2.48384  max=0.0337598 avg=0.0135918 PE0=0.0337598
+particle-load balance: 1.46973
+max. nodes: 2619, filled: 0.568359
+part/sec=31489.6 | 12677.8  ia/part=859.075 (0)
+
+Step= 343  t= 1.21909  dt= 0.000307617 
+Nf= 0000000004  total-Nf= 0005603692  ex-frac= 8.25  iter= 1
+work-load balance: 2.75663  max=6.81877e-05 avg=2.47359e-05 PE0=1.97887e-05
+particle-load balance: 1.46973
+max. nodes: 2619, filled: 0.568359
+part/sec=10106.8 | 3666.35  ia/part=1346.75 (0)
+
+Step= 344  t= 1.21939  dt= 0.000307617 
+Nf= 0000011195  total-Nf= 0005614887  ex-frac= 4.7883  iter= 1
+work-load balance: 2.01081  max=0.0422192 avg=0.0209961 PE0=0.0422192
+particle-load balance: 1.46826
+max. nodes: 2634, filled: 0.571615
+part/sec=33324.6 | 16572.7  ia/part=802.596 (0)
+
+Step= 345  t= 1.2197  dt= 0.000307617 
+Nf= 0000000001  total-Nf= 0005614888  ex-frac= 8  iter= 1
+work-load balance: 3.10817  max=4.19617e-05 avg=1.35005e-05 PE0=1.19209e-05
+particle-load balance: 1.46826
+max. nodes: 2634, filled: 0.571615
+part/sec=4629.47 | 1489.45  ia/part=1048 (0)
+
+Step= 346  t= 1.22001  dt= 0.000307617 
+Nf= 0000006535  total-Nf= 0005621423  ex-frac= 5.00933  iter= 1
+work-load balance: 2.53026  max=0.0321679 avg=0.0127133 PE0=0.0321679
+particle-load balance: 1.4668
+max. nodes: 2666, filled: 0.578559
+part/sec=32126.9 | 12697  ia/part=839.436 (0)
+
+Step= 347  t= 1.22063  dt= 0.000615234 
+Nf= 0000032768  total-Nf= 0005654191  ex-frac= 2.76193  iter= 1
+work-load balance: 1.66603  max=0.0753889 avg=0.0452506 PE0=0.0492597
+particle-load balance: 1.46826
+max. nodes: 2669, filled: 0.57921
+part/sec=45259 | 27165.8  ia/part=579.769 (0)
+
+Step= 348  t= 1.22093  dt= 0.000307617 
+Nf= 0000000007  total-Nf= 0005654198  ex-frac= 6.57143  iter= 1
+work-load balance: 4.04453  max=0.000129938 avg=3.21269e-05 PE0=2.31266e-05
+particle-load balance: 1.46826
+max. nodes: 2669, filled: 0.57921
+part/sec=13617.9 | 3366.99  ia/part=1255.14 (0)
+
+Step= 349  t= 1.22124  dt= 0.000307617 
+Nf= 0000006882  total-Nf= 0005661080  ex-frac= 5.0882  iter= 1
+work-load balance: 2.52615  max=0.0343981 avg=0.0136168 PE0=0.0343981
+particle-load balance: 1.46875
+max. nodes: 2660, filled: 0.577257
+part/sec=31587.8 | 12504.3  ia/part=852.849 (0)
+
+Step= 350  t= 1.22155  dt= 0.000307617 
+Nf= 0000000005  total-Nf= 0005661085  ex-frac= 6.6  iter= 1
+work-load balance: 4.44344  max=0.000117064 avg=2.63453e-05 PE0=1.88351e-05
+particle-load balance: 1.46875
+max. nodes: 2660, filled: 0.577257
+part/sec=11861.7 | 2669.49  ia/part=1271.4 (0)
+
+Step= 351  t= 1.22186  dt= 0.000307617 
+Nf= 0000011311  total-Nf= 0005672396  ex-frac= 4.57687  iter= 1
+work-load balance: 2.01914  max=0.0425069 avg=0.021052 PE0=0.0425069
+particle-load balance: 1.46973
+max. nodes: 2667, filled: 0.578776
+part/sec=33580.5 | 16631.1  ia/part=797.845 (0)
+
+Step= 352  t= 1.22216  dt= 0.000307617 
+Nf= 0000000001  total-Nf= 0005672397  ex-frac= 8  iter= 1
+work-load balance: 3.03044  max=4.00543e-05 avg=1.32173e-05 PE0=1.07288e-05
+particle-load balance: 1.46973
+max. nodes: 2667, filled: 0.578776
+part/sec=4728.64 | 1560.38  ia/part=1028 (0)
+
+Step= 353  t= 1.22247  dt= 0.000307617 
+Nf= 0000006539  total-Nf= 0005678936  ex-frac= 4.95076  iter= 1
+work-load balance: 2.52607  max=0.0318573 avg=0.0126114 PE0=0.0318573
+particle-load balance: 1.46973
+max. nodes: 2680, filled: 0.581597
+part/sec=32406.2 | 12828.7  ia/part=830.618 (0)
+
+Step= 354  t= 1.22309  dt= 0.000615234 
+Nf= 0000014606  total-Nf= 0005693542  ex-frac= 4.12399  iter= 1
+work-load balance: 1.83242  max=0.0475531 avg=0.025951 PE0=0.0436783
+particle-load balance: 1.46973
+max. nodes: 2665, filled: 0.578342
+part/sec=35176.9 | 19197  ia/part=759.629 (0)
+
+Step= 355  t= 1.22339  dt= 0.000307617 
+Nf= 0000000010  total-Nf= 0005693552  ex-frac= 6.2  iter= 1
+work-load balance: 4.29147  max=0.000164986 avg=3.8445e-05 PE0=2.6226e-05
+particle-load balance: 1.46973
+max. nodes: 2665, filled: 0.578342
+part/sec=16257 | 3788.21  ia/part=1177.7 (0)
+
+Step= 356  t= 1.2237  dt= 0.000307617 
+Nf= 0000006900  total-Nf= 0005700452  ex-frac= 5.11435  iter= 1
+work-load balance: 2.50171  max=0.0334661 avg=0.0133773 PE0=0.0334661
+particle-load balance: 1.4668
+max. nodes: 2652, filled: 0.575521
+part/sec=32237.5 | 12886.2  ia/part=841.943 (0)
+
+Step= 357  t= 1.22401  dt= 0.000307617 
+Nf= 0000000007  total-Nf= 0005700459  ex-frac= 6.28571  iter= 1
+work-load balance: 3.84132  max=0.000111103 avg=2.89232e-05 PE0=2.16961e-05
+particle-load balance: 1.4668
+max. nodes: 2652, filled: 0.575521
+part/sec=15126.3 | 3937.79  ia/part=1159.86 (0)
+
+Step= 358  t= 1.22432  dt= 0.000307617 
+Nf= 0000011401  total-Nf= 0005711860  ex-frac= 4.60512  iter= 1
+work-load balance: 1.99803  max=0.0419371 avg=0.0209892 PE0=0.0419371
+particle-load balance: 1.46924
+max. nodes: 2636, filled: 0.572049
+part/sec=33948.9 | 16991.2  ia/part=793.338 (0)
+
+Step= 359  t= 1.22462  dt= 0.000307617 
+Nf= 0000000002  total-Nf= 0005711862  ex-frac= 7  iter= 1
+work-load balance: 2.593  max=4.19617e-05 avg=1.61827e-05 PE0=1.3113e-05
+particle-load balance: 1.46924
+max. nodes: 2636, filled: 0.572049
+part/sec=7724.32 | 2978.91  ia/part=996.5 (0)
+
+Step= 360  t= 1.22493  dt= 0.000307617 
+Nf= 0000006528  total-Nf= 0005718390  ex-frac= 4.98238  iter= 1
+work-load balance: 2.48788  max=0.0308099 avg=0.012384 PE0=0.0308099
+particle-load balance: 1.46973
+max. nodes: 2638, filled: 0.572483
+part/sec=32945.7 | 13242.5  ia/part=821.471 (0)
+
+Step= 361  t= 1.22555  dt= 0.000615234 
+Nf= 0000020091  total-Nf= 0005738481  ex-frac= 3.65228  iter= 1
+work-load balance: 1.64113  max=0.0544171 avg=0.0331582 PE0=0.0445671
+particle-load balance: 1.46924
+max. nodes: 2639, filled: 0.5727
+part/sec=37869.5 | 23075.2  ia/part=699.627 (0)
+
+Step= 362  t= 1.22585  dt= 0.000307617 
+Nf= 0000000013  total-Nf= 0005738494  ex-frac= 6  iter= 1
+work-load balance: 4.87446  max=0.000216961 avg=4.45098e-05 PE0=2.90871e-05
+particle-load balance: 1.46924
+max. nodes: 2639, filled: 0.5727
+part/sec=18254.4 | 3744.91  ia/part=1095.15 (0)
+
+Step= 363  t= 1.22616  dt= 0.000307617 
+Nf= 0000006912  total-Nf= 0005745406  ex-frac= 5.1684  iter= 1
+work-load balance: 2.32631  max=0.031194 avg=0.0134092 PE0=0.031194
+particle-load balance: 1.46875
+max. nodes: 2658, filled: 0.576823
+part/sec=32216.6 | 13848.8  ia/part=831.407 (0)
+
+Step= 364  t= 1.22647  dt= 0.000307617 
+Nf= 0000000007  total-Nf= 0005745413  ex-frac= 5.85714  iter= 1
+work-load balance: 3.5582  max=0.00010705 avg=3.00854e-05 PE0=1.50204e-05
+particle-load balance: 1.46875
+max. nodes: 2658, filled: 0.576823
+part/sec=14541.9 | 4086.88  ia/part=1157 (0)
+
+Step= 365  t= 1.22678  dt= 0.000307617 
+Nf= 0000011513  total-Nf= 0005756926  ex-frac= 4.5545  iter= 1
+work-load balance: 1.88041  max=0.039659 avg=0.0210907 PE0=0.039659
+particle-load balance: 1.46973
+max. nodes: 2643, filled: 0.573568
+part/sec=34117.6 | 18143.7  ia/part=787.995 (0)
+
+Step= 366  t= 1.22708  dt= 0.000307617 
+Nf= 0000000002  total-Nf= 0005756928  ex-frac= 6.5  iter= 1
+work-load balance: 2.49486  max=3.98159e-05 avg=1.59591e-05 PE0=1.12057e-05
+particle-load balance: 1.46973
+max. nodes: 2643, filled: 0.573568
+part/sec=7832.5 | 3139.45  ia/part=966.5 (0)
+
+Step= 367  t= 1.22739  dt= 0.000307617 
+Nf= 0000006501  total-Nf= 0005763429  ex-frac= 4.88509  iter= 1
+work-load balance: 2.28879  max=0.0280561 avg=0.0122581 PE0=0.0280561
+particle-load balance: 1.46924
+max. nodes: 2663, filled: 0.577908
+part/sec=33146.5 | 14482.1  ia/part=812.995 (0)
+
+Step= 368  t= 1.2277  dt= 0.000307617 
+Nf= 0000000001  total-Nf= 0005763430  ex-frac= 8  iter= 1
+work-load balance: 3.14637  max=4.19617e-05 avg=1.33365e-05 PE0=1.21593e-05
+particle-load balance: 1.46924
+max. nodes: 2663, filled: 0.577908
+part/sec=4686.37 | 1489.45  ia/part=1003 (0)
+
+Step= 369  t= 1.22801  dt= 0.000307617 
+Nf= 0000014761  total-Nf= 0005778191  ex-frac= 4.10826  iter= 1
+work-load balance: 1.78967  max=0.0463769 avg=0.0259137 PE0=0.0410061
+particle-load balance: 1.46777
+max. nodes: 2651, filled: 0.575304
+part/sec=35601.3 | 19892.7  ia/part=753.717 (0)
+
+Step= 370  t= 1.22832  dt= 0.000307617 
+Nf= 0000000016  total-Nf= 0005778207  ex-frac= 5.625  iter= 1
+work-load balance: 4.24691  max=0.00020504 avg=4.82798e-05 PE0=1.90735e-05
+particle-load balance: 1.46777
+max. nodes: 2651, filled: 0.575304
+part/sec=20712.6 | 4877.1  ia/part=1024.75 (0)
+
+Step= 371  t= 1.22862  dt= 0.000307617 
+Nf= 0000006917  total-Nf= 0005785124  ex-frac= 4.9653  iter= 1
+work-load balance: 2.31603  max=0.0305791 avg=0.0132032 PE0=0.0305791
+particle-load balance: 1.4668
+max. nodes: 2657, filled: 0.576606
+part/sec=32742.9 | 14137.5  ia/part=825.406 (0)
+
+Step= 372  t= 1.22893  dt= 0.000307617 
+Nf= 0000000010  total-Nf= 0005785134  ex-frac= 5.6  iter= 1
+work-load balance: 3.53618  max=0.000120878 avg=3.41833e-05 PE0=1.50204e-05
+particle-load balance: 1.4668
+max. nodes: 2657, filled: 0.576606
+part/sec=18283.8 | 5170.49  ia/part=992.2 (0)
+
+Step= 373  t= 1.22924  dt= 0.000307617 
+Nf= 0000011608  total-Nf= 0005796742  ex-frac= 4.65877  iter= 1
+work-load balance: 1.88285  max=0.0401139 avg=0.021305 PE0=0.0401139
+particle-load balance: 1.46973
+max. nodes: 2657, filled: 0.576606
+part/sec=34053.1 | 18086  ia/part=784.472 (0)
+
+Step= 374  t= 1.22955  dt= 0.000307617 
+Nf= 0000000003  total-Nf= 0005796745  ex-frac= 5  iter= 1
+work-load balance: 3.36996  max=5.48363e-05 avg=1.62721e-05 PE0=7.86781e-06
+particle-load balance: 1.46973
+max. nodes: 2657, filled: 0.576606
+part/sec=11522.8 | 3419.27  ia/part=889.333 (0)
+
+Step= 375  t= 1.22985  dt= 0.000307617 
+Nf= 0000006544  total-Nf= 0005803289  ex-frac= 4.8724  iter= 1
+work-load balance: 2.30648  max=0.028275 avg=0.012259 PE0=0.028275
+particle-load balance: 1.46777
+max. nodes: 2676, filled: 0.580729
+part/sec=33363.3 | 14465.1  ia/part=809.762 (0)
+
+Step= 376  t= 1.23016  dt= 0.000307617 
+Nf= 0000000003  total-Nf= 0005803292  ex-frac= 5  iter= 1
+work-load balance: 3.31244  max=5.19753e-05 avg=1.56909e-05 PE0=7.86781e-06
+particle-load balance: 1.46777
+max. nodes: 2676, filled: 0.580729
+part/sec=11949.6 | 3607.49  ia/part=879 (0)
+
+Step= 377  t= 1.23047  dt= 0.000307617 
+Nf= 0000032768  total-Nf= 0005836060  ex-frac= 2.81348  iter= 1
+work-load balance: 1.64397  max=0.0747271 avg=0.0454553 PE0=0.0469937
+particle-load balance: 1.46973
+max. nodes: 2693, filled: 0.584418
+part/sec=45055.2 | 27406.4  ia/part=576.097 (0)
+
+Step= 378  t= 1.23078  dt= 0.000307617 
+Nf= 0000000021  total-Nf= 0005836081  ex-frac= 5.33333  iter= 1
+work-load balance: 4.41437  max=0.000252724 avg=5.72503e-05 PE0=1.09673e-05
+particle-load balance: 1.46973
+max. nodes: 2693, filled: 0.584418
+part/sec=22925.7 | 5193.42  ia/part=967.524 (0)
+
+Step= 379  t= 1.23108  dt= 0.000307617 
+Nf= 0000006961  total-Nf= 0005843042  ex-frac= 5.1382  iter= 1
+work-load balance: 2.26977  max=0.0301733 avg=0.0132936 PE0=0.0301733
+particle-load balance: 1.46973
+max. nodes: 2662, filled: 0.577691
+part/sec=32727.3 | 14418.8  ia/part=816.994 (0)
+
+Step= 380  t= 1.23139  dt= 0.000307617 
+Nf= 0000000015  total-Nf= 0005843057  ex-frac= 5.33333  iter= 1
+work-load balance: 3.83632  max=0.000169039 avg=4.40627e-05 PE0=9.05991e-06
+particle-load balance: 1.46973
+max. nodes: 2662, filled: 0.577691
+part/sec=21276.5 | 5546.06  ia/part=941.067 (0)
+
+Step= 381  t= 1.2317  dt= 0.000307617 
+Nf= 0000011703  total-Nf= 0005854760  ex-frac= 4.61506  iter= 1
+work-load balance: 1.88339  max=0.0401301 avg=0.0213075 PE0=0.0401301
+particle-load balance: 1.46875
+max. nodes: 2657, filled: 0.576606
+part/sec=34327.8 | 18226.6  ia/part=781.292 (0)
+
+Step= 382  t= 1.23201  dt= 0.000307617 
+Nf= 0000000009  total-Nf= 0005854769  ex-frac= 5.44444  iter= 1
+work-load balance: 3.26857  max=0.000102282 avg=3.12924e-05 PE0=1.07288e-05
+particle-load balance: 1.46875
+max. nodes: 2657, filled: 0.576606
+part/sec=17975.6 | 5499.52  ia/part=930.889 (0)
+
+Step= 383  t= 1.23231  dt= 0.000307617 
+Nf= 0000006565  total-Nf= 0005861334  ex-frac= 5.01919  iter= 1
+work-load balance: 2.2062  max=0.0271599 avg=0.0123107 PE0=0.0271599
+particle-load balance: 1.46973
+max. nodes: 2644, filled: 0.573785
+part/sec=33329.6 | 15107.3  ia/part=802.199 (0)
+
+Step= 384  t= 1.23262  dt= 0.000307617 
+Nf= 0000000004  total-Nf= 0005861338  ex-frac= 5  iter= 1
+work-load balance: 4.0396  max=7.29561e-05 avg=1.80602e-05 PE0=8.10623e-06
+particle-load balance: 1.46973
+max. nodes: 2644, filled: 0.573785
+part/sec=13842.6 | 3426.72  ia/part=879.5 (0)
+
+Step= 385  t= 1.23293  dt= 0.000307617 
+Nf= 0000014917  total-Nf= 0005876255  ex-frac= 4.26406  iter= 1
+work-load balance: 1.73002  max=0.04531 avg=0.0261905 PE0=0.0413008
+particle-load balance: 1.46973
+max. nodes: 2650, filled: 0.575087
+part/sec=35597.3 | 20576.3  ia/part=748.322 (0)
+
+Step= 386  t= 1.23324  dt= 0.000307617 
+Nf= 0000000040  total-Nf= 0005876295  ex-frac= 5.925  iter= 1
+work-load balance: 3.54976  max=0.000373125 avg=0.000105113 PE0=1.69277e-05
+particle-load balance: 1.46973
+max. nodes: 2650, filled: 0.575087
+part/sec=23784 | 6700.17  ia/part=974.775 (0)
+
+Step= 387  t= 1.23354  dt= 0.000307617 
+Nf= 0000006988  total-Nf= 0005883283  ex-frac= 5.25157  iter= 1
+work-load balance: 2.23998  max=0.029731 avg=0.0132729 PE0=0.029731
+particle-load balance: 1.46973
+max. nodes: 2645, filled: 0.574002
+part/sec=32905.4 | 14690  ia/part=811.908 (0)
+
+Step= 388  t= 1.23385  dt= 0.000307617 
+Nf= 0000000023  total-Nf= 0005883306  ex-frac= 5.65217  iter= 1
+work-load balance: 3.68416  max=0.00023222 avg=6.30319e-05 PE0=1.12057e-05
+particle-load balance: 1.46973
+max. nodes: 2645, filled: 0.574002
+part/sec=22805.9 | 6190.26  ia/part=955.913 (0)
+
+Step= 389  t= 1.23416  dt= 0.000307617 
+Nf= 0000011786  total-Nf= 0005895092  ex-frac= 4.75259  iter= 1
+work-load balance: 1.86232  max=0.0402548 avg=0.0216154 PE0=0.0402548
+particle-load balance: 1.46973
+max. nodes: 2623, filled: 0.569227
+part/sec=34078.6 | 18299  ia/part=777.628 (0)
+
+Step= 390  t= 1.23447  dt= 0.000307617 
+Nf= 0000000014  total-Nf= 0005895106  ex-frac= 5.28571  iter= 1
+work-load balance: 4.29946  max=0.000177145 avg=4.12017e-05 PE0=7.86781e-06
+particle-load balance: 1.46973
+max. nodes: 2623, filled: 0.569227
+part/sec=21237 | 4939.46  ia/part=909.143 (0)
+
+Step= 391  t= 1.23478  dt= 0.000307617 
+Nf= 0000006548  total-Nf= 0005901654  ex-frac= 5.22037  iter= 1
+work-load balance: 2.17661  max=0.0268478 avg=0.0123347 PE0=0.0268478
+particle-load balance: 1.46826
+max. nodes: 2629, filled: 0.57053
+part/sec=33178.8 | 15243.3  ia/part=799.709 (0)
+
+Step= 392  t= 1.23508  dt= 0.000307617 
+Nf= 0000000012  total-Nf= 0005901666  ex-frac= 5.08333  iter= 1
+work-load balance: 4.44782  max=0.000156879 avg=3.5271e-05 PE0=7.86781e-06
+particle-load balance: 1.46826
+max. nodes: 2629, filled: 0.57053
+part/sec=21263.9 | 4780.74  ia/part=900.417 (0)
+
+Step= 393  t= 1.23539  dt= 0.000307617 
+Nf= 0000020251  total-Nf= 0005921917  ex-frac= 3.74994  iter= 1
+work-load balance: 1.67949  max=0.055701 avg=0.0331654 PE0=0.041914
+particle-load balance: 1.46973
+max. nodes: 2615, filled: 0.567491
+part/sec=38162.9 | 22722.9  ia/part=693.27 (0)
+
+Step= 394  t= 1.2357  dt= 0.000307617 
+Nf= 0000000079  total-Nf= 0005921996  ex-frac= 6.10127  iter= 1
+work-load balance: 3.85267  max=0.000730991 avg=0.000189736 PE0=3.50475e-05
+particle-load balance: 1.46973
+max. nodes: 2615, filled: 0.567491
+part/sec=26022.9 | 6754.53  ia/part=958.608 (0)
+
+Step= 395  t= 1.23601  dt= 0.000307617 
+Nf= 0000007015  total-Nf= 0005929011  ex-frac= 5.31875  iter= 1
+work-load balance: 2.18633  max=0.0291171 avg=0.0133178 PE0=0.0291171
+particle-load balance: 1.46924
+max. nodes: 2620, filled: 0.568576
+part/sec=32921.2 | 15057.7  ia/part=810.279 (0)
+
+Step= 396  t= 1.23631  dt= 0.000307617 
+Nf= 0000000064  total-Nf= 0005929075  ex-frac= 6  iter= 1
+work-load balance: 3.39522  max=0.000535727 avg=0.000157788 PE0=3.09944e-05
+particle-load balance: 1.46924
+max. nodes: 2620, filled: 0.568576
+part/sec=25350.4 | 7466.5  ia/part=964.641 (0)
+
+Step= 397  t= 1.23662  dt= 0.000307617 
+Nf= 0000011887  total-Nf= 0005940962  ex-frac= 4.78842  iter= 1
+work-load balance: 1.85806  max=0.0401971 avg=0.0216339 PE0=0.0401971
+particle-load balance: 1.46973
+max. nodes: 2632, filled: 0.571181
+part/sec=34341.3 | 18482.4  ia/part=776.765 (0)
+
+Step= 398  t= 1.23693  dt= 0.000307617 
+Nf= 0000000038  total-Nf= 0005941000  ex-frac= 5.55263  iter= 1
+work-load balance: 4.15805  max=0.000396729 avg=9.54121e-05 PE0=1.78814e-05
+particle-load balance: 1.46973
+max. nodes: 2632, filled: 0.571181
+part/sec=24892 | 5986.46  ia/part=955.895 (0)
+
+Step= 399  t= 1.23724  dt= 0.000307617 
+Nf= 0000006587  total-Nf= 0005947587  ex-frac= 5.15151  iter= 1
+work-load balance: 2.12554  max=0.0261829 avg=0.0123183 PE0=0.0261829
+particle-load balance: 1.46826
+max. nodes: 2638, filled: 0.572483
+part/sec=33420.9 | 15723.5  ia/part=797.286 (0)
+
+Step= 400  t= 1.23754  dt= 0.000307617 
+Nf= 0000000030  total-Nf= 0005947617  ex-frac= 5.5  iter= 1
+work-load balance: 4.77317  max=0.000369072 avg=7.73221e-05 PE0=1.4782e-05
+particle-load balance: 1.46826
+max. nodes: 2638, filled: 0.572483
+part/sec=24249.2 | 5080.31  ia/part=968.833 (0)
+
+Step= 401  t= 1.23785  dt= 0.000307617 
+Nf= 0000015095  total-Nf= 0005962712  ex-frac= 4.29056  iter= 1
+work-load balance: 1.7503  max=0.046123 avg=0.0263514 PE0=0.0408847
+particle-load balance: 1.46973
+max. nodes: 2623, filled: 0.569227
+part/sec=35802.1 | 20454.8  ia/part=744.457 (0)
+
+Step= 402  t= 1.23816  dt= 0.000307617 
+Nf= 0000000136  total-Nf= 0005962848  ex-frac= 5.95588  iter= 1
+work-load balance: 3.57924  max=0.0011251 avg=0.00031434 PE0=3.71933e-05
+particle-load balance: 1.46973
+max. nodes: 2623, filled: 0.569227
+part/sec=27040.8 | 7554.9  ia/part=967.162 (0)
+
+Step= 403  t= 1.23847  dt= 0.000307617 
+Nf= 0000007013  total-Nf= 0005969861  ex-frac= 5.27463  iter= 1
+work-load balance: 2.16727  max=0.028878 avg=0.0133246 PE0=0.028878
+particle-load balance: 1.46826
+max. nodes: 2626, filled: 0.569878
+part/sec=32895 | 15178.1  ia/part=806.708 (0)
+
+Step= 404  t= 1.23877  dt= 0.000307617 
+Nf= 0000000104  total-Nf= 0005969965  ex-frac= 5.90385  iter= 1
+work-load balance: 3.55869  max=0.00087285 avg=0.000245273 PE0=3.50475e-05
+particle-load balance: 1.46826
+max. nodes: 2626, filled: 0.569878
+part/sec=26501.1 | 7446.87  ia/part=962.587 (0)
+
+Step= 405  t= 1.23908  dt= 0.000307617 
+Nf= 0000011980  total-Nf= 0005981945  ex-frac= 4.72955  iter= 1
+work-load balance: 1.86199  max=0.040369 avg=0.0216806 PE0=0.040369
+particle-load balance: 1.46973
+max. nodes: 2634, filled: 0.571615
+part/sec=34535.4 | 18547.6  ia/part=773.465 (0)
+
+Step= 406  t= 1.23939  dt= 0.000307617 
+Nf= 0000000053  total-Nf= 0005981998  ex-frac= 5.54717  iter= 1
+work-load balance: 3.97012  max=0.00049901 avg=0.000125691 PE0=2.16961e-05
+particle-load balance: 1.46973
+max. nodes: 2634, filled: 0.571615
+part/sec=26354.3 | 6638.14  ia/part=924.868 (0)
+
+Step= 407  t= 1.2397  dt= 0.000307617 
+Nf= 0000006624  total-Nf= 0005988622  ex-frac= 5.15308  iter= 1
+work-load balance: 2.08383  max=0.025749 avg=0.0123566 PE0=0.025749
+particle-load balance: 1.46973
+max. nodes: 2611, filled: 0.566623
+part/sec=33504.4 | 16078.3  ia/part=794.261 (0)
+
+Step= 408  t= 1.24  dt= 0.000307617 
+Nf= 0000000040  total-Nf= 0005988662  ex-frac= 5.4  iter= 1
+work-load balance: 4.01986  max=0.000386 avg=9.60231e-05 PE0=1.62125e-05
+particle-load balance: 1.46973
+max. nodes: 2611, filled: 0.566623
+part/sec=26035.4 | 6476.69  ia/part=900 (0)
+
+Step= 409  t= 1.24031  dt= 0.000307617 
+Nf= 0000032768  total-Nf= 0006021430  ex-frac= 2.90543  iter= 1
+work-load balance: 1.66455  max=0.0751781 avg=0.0451643 PE0=0.0468502
+particle-load balance: 1.46729
+max. nodes: 2617, filled: 0.567925
+part/sec=45345.6 | 27242  ia/part=573.879 (0)
+
+Step= 410  t= 1.24062  dt= 0.000307617 
+Nf= 0000000234  total-Nf= 0006021664  ex-frac= 6.09402  iter= 1
+work-load balance: 3.5559  max=0.00188899 avg=0.000531226 PE0=0.00010705
+particle-load balance: 1.46729
+max. nodes: 2617, filled: 0.567925
+part/sec=27530.6 | 7742.23  ia/part=952.863 (0)
+
+Step= 411  t= 1.24093  dt= 0.000307617 
+Nf= 0000007062  total-Nf= 0006028726  ex-frac= 5.22317  iter= 1
+work-load balance: 2.03997  max=0.0270829 avg=0.0132761 PE0=0.0270829
+particle-load balance: 1.46826
+max. nodes: 2612, filled: 0.56684
+part/sec=33245.8 | 16297.2  ia/part=801.772 (0)
+
+Step= 412  t= 1.24124  dt= 0.000307617 
+Nf= 0000000169  total-Nf= 0006028895  ex-frac= 5.88757  iter= 1
+work-load balance: 3.85938  max=0.00146413 avg=0.000379369 PE0=6.60419e-05
+particle-load balance: 1.46826
+max. nodes: 2612, filled: 0.56684
+part/sec=27842.3 | 7214.19  ia/part=947.527 (0)
+
+Step= 413  t= 1.24154  dt= 0.000307617 
+Nf= 0000012084  total-Nf= 0006040979  ex-frac= 4.66634  iter= 1
+work-load balance: 1.79272  max=0.0388722 avg=0.0216834 PE0=0.0388722
+particle-load balance: 1.46777
+max. nodes: 2613, filled: 0.567057
+part/sec=34830.7 | 19429  ia/part=770.045 (0)
+
+Step= 414  t= 1.24185  dt= 0.000307617 
+Nf= 0000000090  total-Nf= 0006041069  ex-frac= 5.32222  iter= 1
+work-load balance: 4.57474  max=0.000893831 avg=0.000195384 PE0=1.88351e-05
+particle-load balance: 1.46777
+max. nodes: 2613, filled: 0.567057
+part/sec=28789.5 | 6293.13  ia/part=901.978 (0)
+
+Step= 415  t= 1.24216  dt= 0.000307617 
+Nf= 0000006682  total-Nf= 0006047751  ex-frac= 5.05911  iter= 1
+work-load balance: 2.03196  max=0.0250618 avg=0.0123338 PE0=0.0250618
+particle-load balance: 1.46338
+max. nodes: 2597, filled: 0.563585
+part/sec=33860.1 | 16663.8  ia/part=790.312 (0)
+
+Step= 416  t= 1.24247  dt= 0.000307617 
+Nf= 0000000072  total-Nf= 0006047823  ex-frac= 5.125  iter= 1
+work-load balance: 4.98537  max=0.000771999 avg=0.000154853 PE0=1.33514e-05
+particle-load balance: 1.46338
+max. nodes: 2597, filled: 0.563585
+part/sec=29059.8 | 5829.02  ia/part=885.153 (0)
+
+Step= 417  t= 1.24277  dt= 0.000307617 
+Nf= 0000015255  total-Nf= 0006063078  ex-frac= 4.23061  iter= 1
+work-load balance: 1.75076  max=0.046062 avg=0.0263097 PE0=0.041451
+particle-load balance: 1.46973
+max. nodes: 2596, filled: 0.563368
+part/sec=36239 | 20699  ia/part=738.314 (0)
+
+Step= 418  t= 1.24308  dt= 0.000307617 
+Nf= 0000000323  total-Nf= 0006063401  ex-frac= 5.66873  iter= 1
+work-load balance: 4.02572  max=0.00278902 avg=0.0006928 PE0=0.000117064
+particle-load balance: 1.46973
+max. nodes: 2596, filled: 0.563368
+part/sec=29139 | 7238.2  ia/part=929.715 (0)
+
+Step= 419  t= 1.24339  dt= 0.000307617 
+Nf= 0000007110  total-Nf= 0006070511  ex-frac= 5.13249  iter= 1
+work-load balance: 2.09249  max=0.0278301 avg=0.0133 PE0=0.0278301
+particle-load balance: 1.46729
+max. nodes: 2615, filled: 0.567491
+part/sec=33411.6 | 15967.4  ia/part=796.539 (0)
+
+Step= 420  t= 1.2437  dt= 0.000307617 
+Nf= 0000000232  total-Nf= 0006070743  ex-frac= 5.62069  iter= 1
+work-load balance: 4.30685  max=0.00214505 avg=0.000498056 PE0=8.41618e-05
+particle-load balance: 1.46729
+max. nodes: 2615, filled: 0.567491
+part/sec=29113.2 | 6759.74  ia/part=922.108 (0)
+
+Step= 421  t= 1.244  dt= 0.000307617 
+Nf= 0000012174  total-Nf= 0006082917  ex-frac= 4.644  iter= 1
+work-load balance: 1.80068  max=0.0391169 avg=0.0217234 PE0=0.0391169
+particle-load balance: 1.46729
+max. nodes: 2595, filled: 0.563151
+part/sec=35025.5 | 19451.3  ia/part=766.317 (0)
+
+Step= 422  t= 1.24431  dt= 0.000307617 
+Nf= 0000000135  total-Nf= 0006083052  ex-frac= 5.37037  iter= 1
+work-load balance: 4.11131  max=0.00121307 avg=0.000295058 PE0=2.5034e-05
+particle-load balance: 1.46729
+max. nodes: 2595, filled: 0.563151
+part/sec=28596.1 | 6955.47  ia/part=886.778 (0)
+
+Step= 423  t= 1.24462  dt= 0.000307617 
+Nf= 0000006750  total-Nf= 0006089802  ex-frac= 5.06815  iter= 1
+work-load balance: 1.94905  max=0.024497 avg=0.0125687 PE0=0.024497
+particle-load balance: 1.46973
+max. nodes: 2627, filled: 0.570095
+part/sec=33565.5 | 17221.5  ia/part=789.82 (0)
+
+Step= 424  t= 1.24493  dt= 0.000307617 
+Nf= 0000000091  total-Nf= 0006089893  ex-frac= 5.50549  iter= 1
+work-load balance: 3.88355  max=0.000771284 avg=0.000198603 PE0=1.97887e-05
+particle-load balance: 1.46973
+max. nodes: 2627, filled: 0.570095
+part/sec=28637.6 | 7374.07  ia/part=870.648 (0)
+
+Step= 425  t= 1.24523  dt= 0.000307617 
+Nf= 0000020387  total-Nf= 0006110280  ex-frac= 3.70236  iter= 1
+work-load balance: 1.69354  max=0.0564361 avg=0.0333244 PE0=0.0415781
+particle-load balance: 1.46973
+max. nodes: 2635, filled: 0.571832
+part/sec=38235.9 | 22577.5  ia/part=686.886 (0)
+
+Step= 426  t= 1.24554  dt= 0.000307617 
+Nf= 0000000421  total-Nf= 0006110701  ex-frac= 5.56295  iter= 1
+work-load balance: 4.3321  max=0.00382304 avg=0.000882491 PE0=0.000121117
+particle-load balance: 1.46973
+max. nodes: 2635, filled: 0.571832
+part/sec=29816.2 | 6882.61  ia/part=916.815 (0)
+
+Step= 427  t= 1.24585  dt= 0.000307617 
+Nf= 0000007196  total-Nf= 0006117897  ex-frac= 5.22346  iter= 1
+work-load balance: 2.00666  max=0.0270281 avg=0.0134692 PE0=0.0270281
+particle-load balance: 1.46875
+max. nodes: 2604, filled: 0.565104
+part/sec=33391 | 16640.1  ia/part=793.955 (0)
+
+Step= 428  t= 1.24616  dt= 0.000307617 
+Nf= 0000000302  total-Nf= 0006118199  ex-frac= 5.7351  iter= 1
+work-load balance: 4.07604  max=0.00258493 avg=0.000634179 PE0=7.67708e-05
+particle-load balance: 1.46875
+max. nodes: 2604, filled: 0.565104
+part/sec=29762.9 | 7301.93  ia/part=906.5 (0)
+
+Step= 429  t= 1.24646  dt= 0.000307617 
+Nf= 0000012266  total-Nf= 0006130465  ex-frac= 4.71066  iter= 1
+work-load balance: 1.83942  max=0.040379 avg=0.0219521 PE0=0.040379
+particle-load balance: 1.46924
+max. nodes: 2590, filled: 0.562066
+part/sec=34922.6 | 18985.7  ia/part=762.327 (0)
+
+Step= 430  t= 1.24677  dt= 0.000307617 
+Nf= 0000000193  total-Nf= 0006130658  ex-frac= 5.65285  iter= 1
+work-load balance: 4.23535  max=0.00169587 avg=0.000400409 PE0=4.31538e-05
+particle-load balance: 1.46924
+max. nodes: 2590, filled: 0.562066
+part/sec=30125.4 | 7112.86  ia/part=870.974 (0)
+
+Step= 431  t= 1.24708  dt= 0.000307617 
+Nf= 0000006901  total-Nf= 0006137559  ex-frac= 5.14172  iter= 1
+work-load balance: 1.93856  max=0.0248468 avg=0.0128172 PE0=0.0248468
+particle-load balance: 1.46924
+max. nodes: 2584, filled: 0.560764
+part/sec=33651.2 | 17358.9  ia/part=786.79 (0)
+
+Step= 432  t= 1.24739  dt= 0.000307617 
+Nf= 0000000125  total-Nf= 0006137684  ex-frac= 5.552  iter= 1
+work-load balance: 3.96407  max=0.00105214 avg=0.000265419 PE0=3.57628e-05
+particle-load balance: 1.46924
+max. nodes: 2584, filled: 0.560764
+part/sec=29434.5 | 7425.33  ia/part=854.656 (0)
+
+Step= 433  t= 1.2477  dt= 0.000307617 
+Nf= 0000015402  total-Nf= 0006153086  ex-frac= 4.25016  iter= 1
+work-load balance: 1.76038  max=0.0464177 avg=0.0263679 PE0=0.0410402
+particle-load balance: 1.46875
+max. nodes: 2590, filled: 0.562066
+part/sec=36507.4 | 20738.3  ia/part=732.444 (0)
+
+Step= 434  t= 1.248  dt= 0.000307617 
+Nf= 0000000467  total-Nf= 0006153553  ex-frac= 5.49251  iter= 1
+work-load balance: 4.50212  max=0.00427914 avg=0.000950471 PE0=0.000125885
+particle-load balance: 1.46875
+max. nodes: 2590, filled: 0.562066
+part/sec=30708.5 | 6820.89  ia/part=892.122 (0)
+
+Step= 435  t= 1.24831  dt= 0.000307617 
+Nf= 0000007264  total-Nf= 0006160817  ex-frac= 5.23431  iter= 1
+work-load balance: 2.13815  max=0.0292671 avg=0.0136881 PE0=0.0292671
+particle-load balance: 1.46826
+max. nodes: 2591, filled: 0.562283
+part/sec=33167.6 | 15512.3  ia/part=789.216 (0)
+
+Step= 436  t= 1.24862  dt= 0.000307617 
+Nf= 0000000330  total-Nf= 0006161147  ex-frac= 5.55152  iter= 1
+work-load balance: 3.74174  max=0.00257087 avg=0.000687078 PE0=0.000119925
+particle-load balance: 1.46826
+max. nodes: 2591, filled: 0.562283
+part/sec=30018.4 | 8022.58  ia/part=878.703 (0)
+
+Step= 437  t= 1.24893  dt= 0.000307617 
+Nf= 0000012358  total-Nf= 0006173505  ex-frac= 4.64865  iter= 1
+work-load balance: 1.96461  max=0.0435772 avg=0.0221811 PE0=0.0435772
+particle-load balance: 1.46729
+max. nodes: 2595, filled: 0.563151
+part/sec=34821.3 | 17724.3  ia/part=757.321 (0)
+
+Step= 438  t= 1.24923  dt= 0.000307617 
+Nf= 0000000199  total-Nf= 0006173704  ex-frac= 5.31658  iter= 1
+work-load balance: 3.73096  max=0.00154901 avg=0.000415176 PE0=5.00679e-05
+particle-load balance: 1.46729
+max. nodes: 2595, filled: 0.563151
+part/sec=29957.2 | 8029.35  ia/part=851.191 (0)
+
+Step= 439  t= 1.24954  dt= 0.000307617 
+Nf= 0000007046  total-Nf= 0006180750  ex-frac= 5.22609  iter= 1
+work-load balance: 1.94574  max=0.0254519 avg=0.0130808 PE0=0.0249832
+particle-load balance: 1.46729
+max. nodes: 2609, filled: 0.566189
+part/sec=33665.7 | 17302.2  ia/part=783.69 (0)
+
+Step= 440  t= 1.24985  dt= 0.000307617 
+Nf= 0000000127  total-Nf= 0006180877  ex-frac= 5.41732  iter= 1
+work-load balance: 4.0676  max=0.00106525 avg=0.000261888 PE0=3.40939e-05
+particle-load balance: 1.46729
+max. nodes: 2609, filled: 0.566189
+part/sec=30308.8 | 7451.27  ia/part=838.858 (0)
+
+Step= 441  t= 1.25016  dt= 0.000307617 
+Nf= 0000032768  total-Nf= 0006213645  ex-frac= 2.84116  iter= 1
+work-load balance: 1.74909  max=0.075423 avg=0.0431213 PE0=0.046622
+particle-load balance: 1.46875
+max. nodes: 2640, filled: 0.572917
+part/sec=47493.9 | 27153.5  ia/part=568.678 (0)
+
+Step= 442  t= 1.25046  dt= 0.000307617 
+Nf= 0000000560  total-Nf= 0006214205  ex-frac= 5.34286  iter= 1
+work-load balance: 3.78286  max=0.00435615 avg=0.00115155 PE0=0.000175953
+particle-load balance: 1.46875
+max. nodes: 2640, filled: 0.572917
+part/sec=30393.9 | 8034.63  ia/part=875.139 (0)
+
+Step= 443  t= 1.25077  dt= 0.000307617 
+Nf= 0000007412  total-Nf= 0006221617  ex-frac= 5.08851  iter= 1
+work-load balance: 1.98801  max=0.0276079 avg=0.0138872 PE0=0.0276079
+particle-load balance: 1.46924
+max. nodes: 2599, filled: 0.564019
+part/sec=33358.1 | 16779.6  ia/part=785.121 (0)
+
+Step= 444  t= 1.25108  dt= 0.000307617 
+Nf= 0000000384  total-Nf= 0006222001  ex-frac= 5.4375  iter= 1
+work-load balance: 3.41916  max=0.0027101 avg=0.000792623 PE0=8.4877e-05
+particle-load balance: 1.46924
+max. nodes: 2599, filled: 0.564019
+part/sec=30279.2 | 8855.75  ia/part=860.052 (0)
+
+Step= 445  t= 1.25139  dt= 0.000307617 
+Nf= 0000012469  total-Nf= 0006234470  ex-frac= 4.82974  iter= 1
+work-load balance: 1.95248  max=0.043385 avg=0.0222205 PE0=0.043385
+particle-load balance: 1.46973
+max. nodes: 2605, filled: 0.565321
+part/sec=35071.8 | 17962.7  ia/part=751.1 (0)
+
+Step= 446  t= 1.25169  dt= 0.000307617 
+Nf= 0000000258  total-Nf= 0006234728  ex-frac= 5.89535  iter= 1
+work-load balance: 3.16507  max=0.00165915 avg=0.000524208 PE0=7.58171e-05
+particle-load balance: 1.46973
+max. nodes: 2605, filled: 0.565321
+part/sec=30760.7 | 9718.8  ia/part=838.473 (0)
+
+Step= 447  t= 1.252  dt= 0.000307617 
+Nf= 0000007231  total-Nf= 0006241959  ex-frac= 5.27755  iter= 1
+work-load balance: 2.02146  max=0.0272069 avg=0.013459 PE0=0.0272069
+particle-load balance: 1.46875
+max. nodes: 2608, filled: 0.565972
+part/sec=33578.8 | 16611.1  ia/part=779.963 (0)
+
+Step= 448  t= 1.25231  dt= 0.000307617 
+Nf= 0000000148  total-Nf= 0006242107  ex-frac= 5.78378  iter= 1
+work-load balance: 3.48337  max=0.00107503 avg=0.000308618 PE0=4.19617e-05
+particle-load balance: 1.46875
+max. nodes: 2608, filled: 0.565972
+part/sec=29972.3 | 8604.42  ia/part=820.703 (0)
+
+Step= 449  t= 1.25262  dt= 0.000307617 
+Nf= 0000015548  total-Nf= 0006257655  ex-frac= 4.29013  iter= 1
+work-load balance: 1.65297  max=0.044322 avg=0.0268136 PE0=0.044322
+particle-load balance: 1.46582
+max. nodes: 2577, filled: 0.559245
+part/sec=36241 | 21924.8  ia/part=723.072 (0)
+
+Step= 450  t= 1.25292  dt= 0.000307617 
+Nf= 0000000607  total-Nf= 0006258262  ex-frac= 5.73476  iter= 1
+work-load balance: 3.84648  max=0.00466681 avg=0.00121327 PE0=0.000248909
+particle-load balance: 1.46582
+max. nodes: 2577, filled: 0.559245
+part/sec=31268.9 | 8129.22  ia/part=853.731 (0)
+
+Step= 451  t= 1.25323  dt= 0.000307617 
+Nf= 0000007530  total-Nf= 0006265792  ex-frac= 5.29017  iter= 1
+work-load balance: 2.07806  max=0.0291312 avg=0.0140184 PE0=0.0291312
+particle-load balance: 1.4668
+max. nodes: 2584, filled: 0.560764
+part/sec=33571.9 | 16155.4  ia/part=779.254 (0)
+
+Step= 452  t= 1.25354  dt= 0.000307617 
+Nf= 0000000429  total-Nf= 0006266221  ex-frac= 5.67133  iter= 1
+work-load balance: 3.29573  max=0.00285816 avg=0.000867233 PE0=0.000133038
+particle-load balance: 1.4668
+max. nodes: 2584, filled: 0.560764
+part/sec=30917.3 | 9381.03  ia/part=837.382 (0)
+
+Step= 453  t= 1.25385  dt= 0.000307617 
+Nf= 0000012548  total-Nf= 0006278769  ex-frac= 4.67501  iter= 1
+work-load balance: 1.94806  max=0.043092 avg=0.0221205 PE0=0.043092
+particle-load balance: 1.46729
+max. nodes: 2601, filled: 0.564453
+part/sec=35453.6 | 18199.4  ia/part=745.485 (0)
+
+Step= 454  t= 1.25416  dt= 0.000307617 
+Nf= 0000000281  total-Nf= 0006279050  ex-frac= 5.67616  iter= 1
+work-load balance: 3.59379  max=0.00207186 avg=0.000576511 PE0=8.79765e-05
+particle-load balance: 1.46729
+max. nodes: 2601, filled: 0.564453
+part/sec=30463.4 | 8476.69  ia/part=827.121 (0)
+
+Step= 455  t= 1.25446  dt= 0.000307617 
+Nf= 0000007362  total-Nf= 0006286412  ex-frac= 5.25835  iter= 1
+work-load balance: 2.05222  max=0.027966 avg=0.0136272 PE0=0.027966
+particle-load balance: 1.46924
+max. nodes: 2596, filled: 0.563368
+part/sec=33765.1 | 16453  ia/part=774.042 (0)
+
+Step= 456  t= 1.25477  dt= 0.000307617 
+Nf= 0000000180  total-Nf= 0006286592  ex-frac= 5.76111  iter= 1
+work-load balance: 4.31471  max=0.00164008 avg=0.000380114 PE0=5.91278e-05
+particle-load balance: 1.46924
+max. nodes: 2596, filled: 0.563368
+part/sec=29596.4 | 6859.42  ia/part=827.039 (0)
+
+Step= 457  t= 1.25508  dt= 0.000307617 
+Nf= 0000020533  total-Nf= 0006307125  ex-frac= 3.69288  iter= 1
+work-load balance: 1.58517  max=0.05305 avg=0.0334664 PE0=0.0454431
+particle-load balance: 1.46924
+max. nodes: 2611, filled: 0.566623
+part/sec=38346.3 | 24190.6  ia/part=674.807 (0)
+
+Step= 458  t= 1.25539  dt= 0.000307617 
+Nf= 0000000696  total-Nf= 0006307821  ex-frac= 5.43534  iter= 1
+work-load balance: 3.80987  max=0.00529695 avg=0.00139032 PE0=0.000259161
+particle-load balance: 1.46924
+max. nodes: 2611, filled: 0.566623
+part/sec=31287.7 | 8212.28  ia/part=837.793 (0)
+
+Step= 459  t= 1.25569  dt= 0.000307617 
+Nf= 0000007655  total-Nf= 0006315476  ex-frac= 5.47159  iter= 1
+work-load balance: 2.07914  max=0.0298221 avg=0.0143435 PE0=0.0298221
+particle-load balance: 1.46875
+max. nodes: 2604, filled: 0.565104
+part/sec=33355.8 | 16043  ia/part=774.886 (0)
+
+Step= 460  t= 1.256  dt= 0.000307617 
+Nf= 0000000533  total-Nf= 0006316009  ex-frac= 5.89493  iter= 1
+work-load balance: 3.35268  max=0.00366592 avg=0.00109343 PE0=0.000198841
+particle-load balance: 1.46875
+max. nodes: 2604, filled: 0.565104
+part/sec=30466 | 9087.07  ia/part=836.713 (0)
+
+Step= 461  t= 1.25631  dt= 0.000307617 
+Nf= 0000012659  total-Nf= 0006328668  ex-frac= 4.64105  iter= 1
+work-load balance: 1.87114  max=0.0417621 avg=0.0223191 PE0=0.0417621
+particle-load balance: 1.46924
+max. nodes: 2609, filled: 0.566189
+part/sec=35448.9 | 18945.1  ia/part=739.963 (0)
+
+Step= 462  t= 1.25662  dt= 0.000307617 
+Nf= 0000000419  total-Nf= 0006329087  ex-frac= 5.84248  iter= 1
+work-load balance: 3.39061  max=0.00296187 avg=0.000873551 PE0=0.000175238
+particle-load balance: 1.46924
+max. nodes: 2609, filled: 0.566189
+part/sec=29978.2 | 8841.53  ia/part=842.317 (0)
+
+Step= 463  t= 1.25692  dt= 0.000307617 
+Nf= 0000007571  total-Nf= 0006336658  ex-frac= 5.40563  iter= 1
+work-load balance: 1.99789  max=0.0280113 avg=0.0140205 PE0=0.0280113
+particle-load balance: 1.46875
+max. nodes: 2617, filled: 0.567925
+part/sec=33749.7 | 16892.7  ia/part=770.147 (0)
+
+Step= 464  t= 1.25723  dt= 0.000307617 
+Nf= 0000000386  total-Nf= 0006337044  ex-frac= 5.93523  iter= 1
+work-load balance: 3.81358  max=0.00310802 avg=0.000814989 PE0=0.000205994
+particle-load balance: 1.46875
+max. nodes: 2617, filled: 0.567925
+part/sec=29601.6 | 7762.17  ia/part=863.15 (0)
+
+Step= 465  t= 1.25754  dt= 0.000307617 
+Nf= 0000015685  total-Nf= 0006352729  ex-frac= 4.17705  iter= 1
+work-load balance: 1.59204  max=0.04233 avg=0.0265885 PE0=0.0415647
+particle-load balance: 1.46973
+max. nodes: 2573, filled: 0.558377
+part/sec=36869.8 | 23158.8  ia/part=712.502 (0)
+
+Step= 466  t= 1.25785  dt= 0.000307617 
+Nf= 0000000929  total-Nf= 0006353658  ex-frac= 6.02799  iter= 1
+work-load balance: 4.15859  max=0.00796008 avg=0.00191413 PE0=0.000756741
+particle-load balance: 1.46973
+max. nodes: 2573, filled: 0.558377
+part/sec=30333.6 | 7294.21  ia/part=846.886 (0)
+
+Step= 467  t= 1.25815  dt= 0.000307617 
+Nf= 0000007879  total-Nf= 0006361537  ex-frac= 5.46516  iter= 1
+work-load balance: 2.06275  max=0.0301621 avg=0.0146223 PE0=0.0301621
+particle-load balance: 1.46973
+max. nodes: 2589, filled: 0.561849
+part/sec=33677.2 | 16326.4  ia/part=767.611 (0)
+
+Step= 468  t= 1.25846  dt= 0.000307617 
+Nf= 0000000846  total-Nf= 0006362383  ex-frac= 6.31797  iter= 1
+work-load balance: 3.6548  max=0.00650883 avg=0.0017809 PE0=0.000654221
+particle-load balance: 1.46973
+max. nodes: 2589, filled: 0.561849
+part/sec=29690.1 | 8123.58  ia/part=851.382 (0)
+
+Step= 469  t= 1.25877  dt= 0.000307617 
+Nf= 0000012730  total-Nf= 0006375113  ex-frac= 4.61422  iter= 1
+work-load balance: 1.8653  max=0.0411708 avg=0.022072 PE0=0.0411708
+particle-load balance: 1.46924
+max. nodes: 2575, filled: 0.558811
+part/sec=36046.8 | 19325  ia/part=732.584 (0)
+
+Step= 470  t= 1.25908  dt= 0.000307617 
+Nf= 0000000812  total-Nf= 0006375925  ex-frac= 6.16133  iter= 1
+work-load balance: 4.33354  max=0.00736094 avg=0.0016986 PE0=0.000605106
+particle-load balance: 1.46924
+max. nodes: 2575, filled: 0.558811
+part/sec=29877.6 | 6894.5  ia/part=853.326 (0)
+
+Step= 471  t= 1.25938  dt= 0.000307617 
+Nf= 0000007787  total-Nf= 0006383712  ex-frac= 5.31527  iter= 1
+work-load balance: 2.05722  max=0.0288959 avg=0.0140461 PE0=0.0288959
+particle-load balance: 1.46973
+max. nodes: 2569, filled: 0.557509
+part/sec=34649.3 | 16842.8  ia/part=764.114 (0)
+
+Step= 472  t= 1.25969  dt= 0.000307617 
+Nf= 0000000831  total-Nf= 0006384543  ex-frac= 6.16968  iter= 1
+work-load balance: 4.45475  max=0.00766993 avg=0.00172174 PE0=0.000634909
+particle-load balance: 1.46973
+max. nodes: 2569, filled: 0.557509
+part/sec=30165.7 | 6771.58  ia/part=849.421 (0)
+
+Step= 473  t= 1.26  dt= 0.000307617 
+Nf= 0000032768  total-Nf= 0006417311  ex-frac= 2.82843  iter= 1
+work-load balance: 1.78361  max=0.077338 avg=0.0433604 PE0=0.0485492
+particle-load balance: 1.46924
+max. nodes: 2580, filled: 0.559896
+part/sec=47232 | 26481.2  ia/part=560.541 (0)
+
