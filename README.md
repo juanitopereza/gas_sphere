@@ -1,2 +1,2 @@
 # gas_sphere
-Collapse of a gas sphere (isothermal)
+Collapse of a gas sphere, isothermal and adiabatic.
