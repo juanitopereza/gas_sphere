@@ -1,2 +1,2 @@
 # gas_sphere
-Collapse of a gas sphere, isothermal and adiabatic.
+Gadget simulation of the collapse of a gas sphere, isothermal and adiabatic.
